@@ -1,0 +1,394 @@
+{
+
+    "navList1": "Features",
+    "navList2": "Pricing",
+    "navList3": "Support",
+    "navList4": "Resources",
+    "navList5": "Blog",
+
+    "featuresSubMenu1Title": "Hostclass learning management system",
+    "featuresSubMenu2Title": "Virtual Learning with Web Conferencing",
+    "featuresSubMenu3Title": "Hostclass reporting and analyzing stack",
+    "featuresSubMenu4Title": "Restricted activity to members of the class",
+    "featuresSubMenu5Title": "Work in teams with Hostclass collaboration system",
+    "featuresSubMenu6Title": "Use Hostclass wherever and whenever you want",
+
+    "landingSec1Title": "Learn and teach with a connected classroom",
+    "landingSec1Text": "From assignments to collaboration, HostClass helps you bring your classroom together in one simple, easy to use app.",
+
+    "landingSec2Title": "Learn Better Together",
+    "landingSec2Text": "HostClass combines all of the essential tools for assignments, feedback and communication in one easy-to-use app. This means less time spent struggling with your tech setup, and more time for teaching and learning.",
+
+    "togetherCard1Title": "Enhance teaching and learning",
+    "togetherCard1Li1": "Add students directly, or share a code or link so the whole class can join",
+    "togetherCard1Li2": "Set up a class in minutes and create class work that appear on students’ calendars",
+    "togetherCard1Li3": "Easily communicate with students and automatically send them updates",
+
+    "togetherCard2Title": "Send students feedback",
+    "togetherCard2Li1": "Send feedback for submitted assignments from students",
+    "togetherCard2Li2": "Grade consistently and transparently with integrated system for student work",
+    "togetherCard2Li3": "Let students scan their own work for potential plagiarism",
+
+    "togetherCard3Title": "Stay connected",
+    "togetherCard3Li1": "Connect with your students from anywhere with virtual classes",
+    "togetherCard3Li2": "Communicate important announcements to the Stream page",
+    "togetherCard3Li3": "Enable face-to-face connections with students using HostClass platform",
+
+    "landingToolBannerTitle": "Tools that help you inspire students.",
+    "landingToolBannerText": "Students learn best when feedback is both unique and personal. HostClass's suite of powerful tools make it easy to give rich, differentiated feedback to students of all learning abilities, so everyone gets the help they need to succeed.",
+
+    "hostClassCompanies": "HOSTCLASS IS TRUSTED BY BIG NAMES LIKE",
+
+    "onlineCardTitle": "Everything you need to succeed with your online classes.",
+    "onlineCard1Title": "Content Notification",
+    "onlineCard1Text": "Automatically deliver content notification according to a predefined schedule, at the exact time when your students should receive it.",
+
+    "onlineCard2Title": "Engagement Triggers",
+    "onlineCard2Text": "Interact with learners based on actions they take in your class. Have some students that are behind? There’s an engagement trigger for that too!",
+
+    "onlineCard3Title": "Robust User Management",
+    "onlineCard3Text": "Create groups of learners (and sub-groups within those groups), add learners to membership levels, enroll a subset of learners into multiple classes, automatically remove course access, and more!",
+
+
+    "resourcesTitle": "Explore resources",
+    "resourcesCard1Title": "Overview",
+    "resourcesCard1Text": "Get a quick overview of the benefits of HostClass including simplifying your work so you can teach easier.",
+    "resourcesCard1Button": "Download",
+    "resourcesCard2Title": "Get Started with HostClass",
+    "resourcesCard2Text": "Learn how to set up classes, and host virtual classes with HostClass features. Organize your assignments and give students quick feedback.",
+    "resourcesCard2Button": "Watch video",
+    "resourcesCard3Title": "Get Resources and Tips from other Teachers",
+    "resourcesCard3Text": "Use HostClass in the best way possible. Learn tips and get feedback from fellow teachers and educators.",
+    "resourcesCard3Button": "Resources",
+
+    "plansTitle": "Plans & Pricing",
+    "plansFor1": "For Teachers",
+    "plansBadge1": "Pro",
+    "plansMonth": "per month",
+    "plans1Title": "Inlcudes everything in HostClass Basic Edition, plus:",
+    "plans1Li1": "Unlimited assignments",
+    "plans1Li2": "Class discussion & Groups",
+    "plans1Li3": "Co-teaching & parent access",
+    "plans1Li4": "Student portfolios & grades",
+    "plans1Li5": "Larger uploads",
+    "plans1Li6": "Priority customer support",
+    "plans1Btn": "Get Pro Now",
+
+    "plansBadge2": "Basic",
+    "plansPrice2": "Free",
+    "plans2Title": "Easy digital assignment workflow for you and your students.",
+    "plans2Li1": "Unlimited classes & students",
+    "plans2Li2": "Document annotations",
+    "plans2Li3": "Voice and text notes",
+    "plans2Li4": "Assignment scheduling",
+    "plans2Li5": "Access on any device",
+    "plans2Btn": "Sign Up for Free",
+
+    "plansBadge3": "Professional",
+    "plansFor3": "For Institution",
+    "plans3Title": "Includes everything in HostClass Pro for teachers, plus:",
+    "plans3Li1": "Integrated quizzing and assessment",
+    "plans3Btn": "Get Professional Now",
+
+    "testimionals": "Testimionals",
+    "testimionalTitle": "What HostClass users think",
+    "testimionalPersonTitle": "Students can concentrate on learning and the faculty can concentrate on teaching.",
+    "testimionalMobTitle": "Use HostClass on the go with mobile app",
+    "testimionalMobText": "Never miss a virtual class meet up or drop out of the conversation. Stay connected with classmates and instructors with digital class discussions and real-time virtual class sessions.",
+
+    "featuresSec1Title": "Learn everywhere",
+    "featuresSec1Text": "HostClass keeps you and your students on the same page, whether you’re using your iPad, iPhone, or pretty much any computer or device with an internet connection.",
+
+    "featuresHostCart1Title": "HostClass Web App",
+    "featuresHostCart1Text": "You and your students can access HostClass anywhere, including your laptop, chromebook, or even your Android phone.",
+
+    "featuresHostCart2Title": "HostClass iPad/Tablet",
+    "featuresHostCart2Text": "Get the most out of classroom with iPads or Tablets. HostClass has everything you need in a single, easy-to-use app.",
+
+    "featuresHostCart3Title": "HostClass Mobile App",
+    "featuresHostCart3Text": "With HostClass in your pocket, it’s easy to stay in touch with students and provide valuable feedback when it’s needed most.",
+
+    "featuresSec3Title": "See how Hostclass works and the benefits it could bring to your classroom",
+
+    "featuresSec4Title": "Assignments made easy",
+    "featuresSec4Card1Title": "Share Anything",
+    "featuresSec4Card1Text": "Instantly distribute documents, images, instructions and comments to your entire class, a group of students.",
+
+    "featuresSec4Card2Title": "Documents form anywhere",
+    "featuresSec4Card2Text": "Add documents from your computer, favourite iPad app, Dropbox or Google Drive in a couple of taps.",
+
+    "featuresSec4Card3Title": "Comments, Links & Voice Notes",
+    "featuresSec4Card3Text": "Quickly add instructions or links to assignments. You can record a voice note with verbal instructions for your students.",
+
+    "featuresSec4Card4Title": "Class Folders",
+    "featuresSec4Card4Text": "Create any number of folders within a class to keep your assignments and documents organized and easy to find.",
+
+    "featuresSec4Card5Title": "Photos and videos",
+    "featuresSec4Card5Text": "Easily adjust and edit images from your camera or any device. Make your classes fun with interactive media files.",
+
+    "featuresSec4Card6Title": "Access Preloaded Assignments",
+    "featuresSec4Card6Text": "Upload your content or select from hundreds of assignments and lessons plans, already loaded into HostClass.",
+
+    "featuresSec5Title": "Manage your courses and learners with flexibility and ease.",
+    "featuresSec5Text": "More control over your learners and courses than nearly any learning management system on the market.",
+    "featuresSec5Card1Title": "Group Management",
+    "featuresSec5Card1Text": "Place users into groups and sub-groups, then allow others to manage.",
+
+    "featuresSec5Card2Title": "Detailed Reporting",
+    "featuresSec5Card2Text": "Quickly run reports on enrollment, progress, and performance.",
+
+    "featuresSec5Card3Title": "Assignment Management",
+    "featuresSec5Card3Text": "Place users into groups and sub-groups, then allow others to manage.",
+
+    "featuresSec5Card4Title": "Gradebook",
+    "featuresSec5Card4Text": "Syncs with HostClass quiz & assignments, and manual grading.",
+
+    "featuresSec6Title":"The right tools for the job",
+    "featuresSec6Card1Title":"Smart Document Viewer",
+    "featuresSec6Card1Text":"HostClass works like magic, displaying PDFs, images, ebooks, audio and video exactly the way you want.",
+
+    "featuresSec6Card2Title":"Text Tool",
+    "featuresSec6Card2Text":"You and your students can type text directly on the page, with control over font size, color, and alignment.",
+
+    "featuresSec6Card3Title":"Pen Tool",
+    "featuresSec6Card3Text":"Use the pen to draw right on your documents. HostClass Pro classrooms can use a wide variety of colors and line thicknesses.",
+
+    "featuresSec6Card4Title":"Pinned Voiced Tool",
+    "featuresSec6Card4Text":"Record audio and pin it right to the page. Capture your students reading, singing, or practicing a new language with a single tap!",
+
+    "featuresSec6RightCard": "This is a new assignment we will discuss in the next class. I want you all to read it and prepare for discussion. Hostclass is the best platform we have ever used. |",
+
+    "featuresSec7Title": "It’s Easy to Get Started",
+    "featuresSec7Text": "It doesn't take much time to get started with the most amazing tool you will ever find. Give your students an excellent virtual class with HostClass. Students are stronger when they learn together, help them share files and ideas with each other with ease. Create a more confident classroom community with group projects, peer review and class discussion.",
+
+    "featuresSec7Img1": "My students love HostClass",    
+    "featuresSec7Img2": "HostClass is so easy to use",
+    "featuresSec7Img3": "Client Satisfied",
+
+
+    "featuresLearningSec1Title": "Learning Management",
+    "featuresLearningSec1Text": "Over the past two and a half decades, learning management technology has changed the face of teaching and learning. With HostClass features, schools, universities, and businesses can ensure that all learners have the opportunity to realize their potential.",
+
+    "featuresLearningSec2Title": "Engage your learners using the best of e-learning",
+    "featuresLearningSec2Card1Title": "Automated Notification",
+    "featuresLearningSec2Card1Text": "Automatically trigger e-mails based on actions learners take (or don’t take) in a course.",
+
+    "featuresLearningSec2Card2Title": "Discussion Forums",
+    "featuresLearningSec2Card2Text": "Encourage conversation among learners by adding a course specific discussion forums.",
+    
+    "featuresLearningSec2Card3Title": "Leaderboards",
+    "featuresLearningSec2Card3Text": "Award and display the learners who obtain the best scores on quizzes in your courses.",
+    
+    "featuresLearningSec2Card4Title": "Badges & Certificates",
+    "featuresLearningSec2Card4Text": "Award official certificates based on quiz performance, completing a course, or both!",
+
+    "featuresLearningSec2Card5Title": "Assignments",
+    "featuresLearningSec2Card5Text": "Require assignment submissions before learners can continue to the next lessons.",
+    
+    "featuresLearningSec2Card6Title": "Gradebook",
+    "featuresLearningSec2Card6Text": "Efficiently mark and grade your students’ work using the class listing within the Shared Folder.",
+
+    "featuresAlayticsTitleTop": "Data & Analytics",
+    "featuresAlayticsTitle": "Data & Analytics: Education Analytics",
+    "featuresAlayticsText": "With the help of HostClass’s evidence-based solutions, colleges, universities and schools identify and overcome barriers to student success, keep learners on track for graduation with high-quality credentials, and optimize institutional outcomes.",
+
+    "featuresAlayticsSec2Title1": "Optimize Your Entire Student Experience",
+    "featuresAlayticsSec2Text1": "HostClass offers the depth and breadth of analytics solutions you need to support a truly comprehensive, integrated, and evidence-based approach to teaching, learning and student success.",
+
+    "featuresAlayticsSec2Title2": "HostClass Reporting Stack",
+    "featuresAlayticsSec2Text2": "Measure tool adoption and return on investment and answer complex questions with direct access to the data from your HostClass SaaS Teaching and Learning solutions.",
+
+    "featuresAlayticsSec2Title3": "HostClass Analytics for Learn",
+    "featuresAlayticsSec2Text3": "Optimize course design for academic performance, improve reporting efficiency, support faculty development, promote self-regulated learning, and measure return on your educational technology investments.",
+
+    "featuresAlayticsSec2Title4": "HostClass Intelligence",
+    "featuresAlayticsSec2Text4": "Boost institutional performance with a complete student information system data warehouse and reporting solution in support of enrollment management, retention, financial aid, strategic finance, human resources, advancement, and more.",
+
+    "featuresAnalyticsSec3Text": "Schedule a consultation with one of our data and analytics experts to learn how you can maximize institutional and student success.",
+
+    "featuresAnalyticsSec4Title": "Enhance Student & Institutional Performance",
+    "featuresAnalyticsSec4Card1Title": "Student Engagement",
+    "featuresAnalyticsSec4Card1Text": "Learn how schools are using data to enhance their student services. Having this level of insight is more important than ever.  We discuss how to access student activity data and reports that may already be free for your institution.",
+
+    "featuresAnalyticsSec4Card2Title": "Strategic Action Plan for Learning Analytics",
+    "featuresAnalyticsSec4Card2Text": "The Learning Analytics Data Strategy Workshop from HostClass is designed to help institutions look beyond the expected online learning aspects and discuss how it can be used to address core challenges.",
+
+    "featuresAnalyticsSec4Card3Title": "It's a fact: students want more online courses",
+    "featuresAnalyticsSec4Card3Text": "Learn how schools are using data to enhance their student services. Having this level of insight is more important than ever.  We discuss how to access student activity data and reports that may already be free for your institution.",
+
+    "featuresCollabSec1TitleTop": "Collaboration",
+    "featuresCollabSec1Title": "Simple, Powerful Tools for Collaborative Learning",
+    "featuresCollabSec1CardTitle1": "HostClass Collaborate:",
+    "featuresCollabSec1CardTitle2": "Distance Learning System",
+    "featuresCollabSec1CardText": "A simple and reliable virtual classroom solution to power your online teaching and web conferencing needs.",
+
+    "featuresCollabSec2Title": "Better Collaboration for More Effective Learning",
+    "featuresCollabSec2Text": "Today’s learners want new ways to engage and collaborate. Virtual classrooms and online professional development deliver new opportunities to meet your learners where they are. Inspire and engage your learners with the easy to use online collaborative solutions they crave.",
+
+    "featuresCollabSec3Title": "Benefits for Educators",
+    "featuresCollabSec3Mob1Title": "Easily Reach Your Students, Wherever They Are",
+    "featuresCollabSec3Mob1Text": "Give your students more options to stay engaged—with collaborative learning tools for their mobile-enabled lives.",
+
+    "featuresCollabSec3Mob2Title": "Full-Featured Collaboration",
+    "featuresCollabSec3Mob2Text": "Web conferencing should be easy. Our capabilities are intuitive so you can focus on learning engagement, rather than managing technology.",
+
+    "featuresCollabSec3Mob3Title": "All-In-One Flipped Classroom",
+    "featuresCollabSec3Mob3Text": "Creative mobile-friendly flipped lessons that stay there for as long as you want.",
+
+    "featuresCollabSec4Title": "Benefits for Students",
+     "featuresCollabSec4Card1Title": "Your Learning, On-Demand",
+     "featuresCollabSec4Card1Text": "Pause, rewind, or fast-forward lessons. You’re in charge of your learning experience with HastClass Collaborate.",
+
+     "featuresCollabSec4Card2Title": "Rich, High-Quality Video & Audio",
+     "featuresCollabSec4Card2Text": "HD audio and video enables a more engaging learning experience. Display up to five HD videos per conference.",
+
+     "featuresCollabSec4Card3Title": "A Classroom That Is Always on",
+     "featuresCollabSec4Card3Text": "No matter where you are, work with classmates and professors from the comfort and convenience of your phone or tablet. Participate in class or study groups remotely. Get help from teachers wherever you are.",
+
+     "featuresConfSec1TitleTop": "Web Conferencing",
+     "featuresConfSec1Title": "Virtual Learning with Web Conferencing",
+     "featuresConfSec1Text": "Give your learners a simple, convenient and reliable synchronous learning solution that’s built for education and training. Learners can engage with each other and the material, and feel like they’re together in the same room—wherever their day takes them, with their favorite device.",
+
+     "featuresConfSec2Title": "Digital Classroom Software",
+     "featuresConfSec2Text": "Like an in-person classroom or training setting, a virtual classroom is a place where learning happens. Educators facilitate, while learners actively engage with the material and interact with one another. All with the added convenience and cost savings that a digital environment has to offer.",
+
+     "featuresConfSec3Title": "Featured Resources",
+
+     "featuresSecurityTitleTop": "Security",
+     "featuresSecurityTitle": "Keep your class protected",
+     "featuresSecurityLine1": "Ensure each user has a unique sign-in to keep individual accounts secure",
+     "featuresSecurityLine2": "Restrict HostClass activity to members of the class",
+     "featuresSecurityLine3": "Protect student privacy - student data is never used for advertising purposes",
+
+     "featuresDevicesSec1TitleTop": "Multiple Devices",
+     "featuresDevicesSec1Title": "Have HostClass with you everywhere",
+     "featuresDevicesSec1Text": "HostClass is a revolutionary product that integrates seamlessly into the learning management system and focuses on making digital course content more accessible.",
+
+     "featuresDevicesSec2Title": "SUPPORTED",
+
+     "featuresDevicesSec3Title": "Alternative Formats for All Learners",
+     "featuresDevicesSec3Text": "Improve the overall student experience with alternative formats that provide students with the choice and added flexibility that comes with a more personalized approach.",
+
+     "priceSec1Title": "HostClass offers best pricing plans for you",
+
+     "priceTableTitle": "Compare Plans",
+     "priceTableTd1": "All the essentials for assignments and feedback with all your classes and students",
+     "priceTableTd2": "Active assignments",
+     "priceTableTd3": "Maximum file size",
+     "priceTableTd4": "Maximum voice note length",
+     "priceTableTd5": "Class discussion",
+     "priceTableTd6": "Groups",
+     "priceTableTd7": "Parent access",
+     "priceTableTd8": "Student portfolios",
+     "priceTableTd9": "Gradebook",
+
+     "priceTableEveryone": "Everyone",
+
+     "priceSec4Title": "You Got Big Plans",
+     "priceSec4Text": "Schedule a consultation with one of our teaching & learning experts to learn how you can maximize institutional and student success with HostClass.",
+
+     "priceSec5Title": "Any Questions? We have listed some of the most frequently asked questions!",
+     "priceSec5Tab1": "General",
+     "priceSec5Tab2": "Payment",
+     "priceSec5Tab3": "Technical",
+     "priceSec5Tab4": "Other",
+
+     "priceAcd1Title": "How long is HostClass free basic edition?",
+     "priceAcd1Text": "If you sign up for a free edition it will last for lifetime. You can upgrade anytime.",
+
+     "priceAcd2Title": "What types of payment do you accept?",
+     "priceAcd3Title": "Can I upgrade to another plan at a later date?",
+     "priceAcd4Title": "Do you offer refunds?",
+
+     "priceLimit": "Unlimited",
+     "priceMinutes": "minutes",
+     "priceMinute": "minute",
+
+     "supportSec1Title": "How can we help?",
+     "supportSec1Placeholder": "Enter keyword",
+
+     "supportSec2Card1Title": "Getting Started",
+     "supportSec2Card1Text": "Learn how to set up your account, your first class, and upload your first file.",
+
+     "supportSec2Card2Title": "Account Settings and Notifications",
+     "supportSec2Card2Text": "Manage your password, change your email address, adjust notifications, etc.",
+
+     "supportSec2Card3Title": "Managing Classes and Assignments",
+     "supportSec2Card3Text": "Learn about class and assignment settings as well as how to archive/delete them.",
+
+     "supportSec2Card4Title": "Adding Work",
+     "supportSec2Card4Text": "From PDFs to voice notes and files from other apps - upload them to HosClass for your whole class to enjoy",
+
+     "supportSec2Card5Title": "Managing Students and Co-Teachers",
+     "supportSec2Card5Text": "Learn how students join a class, how to reset their password or retrieve their username, and how to add co-teachers to your class.",
+
+     "supportSec2Card6Title": "FAQs and Troubleshooting",
+     "supportSec2Card6Text": "Common questions answered; common problems solved!",
+
+     "supportSec2Card7Title": "HostClass Features Tour",
+     "supportSec2Card7Text": "Annotations, Groups, Class Discussion, Parent Access - learn it all here!",
+
+     "supportSec2Card8Title": "Privacy",
+     "supportSec2Card8Text": "HostClass in relation to student privacy and policies.",
+
+     "supportSec2Card9Title": "App Settings",
+     "supportSec2Card9Text": "Bring your files over from other apps to HostClass!",
+
+     "supportSec2Card10Title": "Web App Settings",
+     "supportSec2Card10Text": "Learn how to use HostClass web app and the challenges you might face.",
+
+     "supportSec2Card11Title": "HostClass Administrators",
+     "supportSec2Card11Text": "Guides to help Pro schools and districts use the admin dashboard.",
+
+     "supportSec2Card12Title": "GDPR Compliance",
+     "supportSec2Card12Text": "Update on measures HostClass has taken to become GDPR compliant.",
+
+
+     "loginTitle": "Log In to HostClass",
+     "loginText": "Welcome Back!",
+
+     "signupAccount": "Create a new account",
+     
+     "accEmail": "Email",
+     "accEnterEmail": "Enter your email",
+     "accPass": "Password",
+     "accEnterPass": "Enter your password",
+     "accRemember": "Remember me",
+     "accForgotPw": "Forgot Password?",
+     "accsignup": "Don't have an account yet?",
+     "acclogin": "Already have an account?",
+     "accFullName": "Full name",
+     "accEnterFullName": "Enter your name",
+
+     "accAccept": "I accept ",
+
+     "PrivatePolicy": "Private Policy",
+     "TermUse": "Term of use",
+
+     "or": "OR",
+    
+
+    "subscribeTitle": "Get Notified For Everything!",
+    "subscribeText": "Subscribe to our Newsletter",
+    "subscribeInput": "Enter your email",
+    "subscribeBtn": "Subscribe",
+
+    "footerTitle": "Give your student an Exceptional Education Experience",
+
+
+    "buttonStarted": "Get Started",
+    "buttonFeatures": "See Features",
+    "buttonLearnMore": "Learn More",
+    "buttonLogIn": "Log In",
+    "buttonSignUp": "Sign Up",
+    "buttonSignUpWith": "Sign up with",
+    "buttonSignUpNow": "Sign up now",
+    "buttonSignUpFree": "Sign up for Free",
+    "buttonWatch": "Watch the video",
+    "buttonContact": "Contact Us",
+    "buttonExpert": "Contact our Experts",
+    "buttonViewMore": "View More",
+    "buttonPurchase": "Purchase Now"
+
+
+}

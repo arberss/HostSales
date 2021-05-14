@@ -1,0 +1,81 @@
+.hostsaleBanner {
+  background: url('../../../../assets/img/Landing/imgBG2.png') no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 3rem;
+
+  position: relative;
+
+  @include respond(tab-land) {
+    border-radius: 0;
+  }
+
+  &::after {
+    content: '';
+    width: 100%;
+    height: 100%;
+
+    background: linear-gradient(
+      90deg,
+      rgba(19, 110, 190, 0.5) 6%,
+      rgba(19, 110, 190, 0.8) 98%
+    );
+    border-radius: 3rem;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    @include respond(tab-land) {
+      border-radius: 0;
+    }
+  }
+
+  &__content {
+    padding: 5rem 0;
+    position: relative;
+    z-index: 2;
+  }
+
+  &__title {
+    color: $color-white;
+
+    font-size: 3rem;
+    font-family: $font-primary-bold;
+  }
+
+  &__cards {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 4rem 0;
+  }
+
+  &__card {
+    width: 34rem;
+    padding: 2.2rem 2rem;
+
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+
+    background-color: $color-white;
+    border-radius: 1rem;
+
+    margin-top: 3rem;
+    margin-right: 3rem;
+
+    @include respond(phone) {
+      margin-right: 0;
+    }
+  }
+
+  &__text {
+    padding: 0 1rem 0 1rem;
+    font-size: 1.4rem;
+  }
+
+  &__icon {
+    width: 6rem;
+    height: 6rem;
+  }
+}

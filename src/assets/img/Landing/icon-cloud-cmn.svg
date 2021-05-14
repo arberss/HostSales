@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="Cloud-Communication-Connection-Internet-Data" transform="translate(-4 -4)">
+    <path id="Path_7535" data-name="Path 7535" d="M32.75,30.749h-.972a.625.625,0,0,1-.54-.937,1.841,1.841,0,0,0,.262-.937,1.871,1.871,0,0,0-3.716-.321.625.625,0,0,1-.951.421.636.636,0,0,0-.958.526.615.615,0,0,0,.089.313.625.625,0,0,1-.541.938H25.25a1.25,1.25,0,0,0,0,2.5h7.5a1.25,1.25,0,0,0,0-2.5Z" transform="translate(-7.5 -8.624)" fill="#2962ff"/>
+    <circle id="Ellipse_713" data-name="Ellipse 713" cx="2.5" cy="2.5" r="2.5" transform="translate(19 4)" fill="#2962ff"/>
+    <circle id="Ellipse_714" data-name="Ellipse 714" cx="2.5" cy="2.5" r="2.5" transform="translate(34 19)" fill="#2962ff"/>
+    <path id="Path_7536" data-name="Path 7536" d="M45.7,45.718a2.5,2.5,0,1,0,3.536,0,2.563,2.563,0,0,0-3.536,0Z" transform="translate(-15.364 -15.379)" fill="#2962ff"/>
+    <circle id="Ellipse_715" data-name="Ellipse 715" cx="2.5" cy="2.5" r="2.5" transform="translate(19 34)" fill="#2962ff"/>
+    <circle id="Ellipse_716" data-name="Ellipse 716" cx="2.5" cy="2.5" r="2.5" transform="translate(4 19)" fill="#2962ff"/>
+    <path id="Path_7537" data-name="Path 7537" d="M13.529,11.03A2.5,2.5,0,0,0,11.761,15.3a2.563,2.563,0,0,0,3.536,0,2.5,2.5,0,0,0-1.768-4.267Z" transform="translate(-2.636 -2.636)" fill="#2962ff"/>
+    <path id="Path_7538" data-name="Path 7538" d="M47.471,11.03A2.5,2.5,0,0,0,45.7,15.3a2.563,2.563,0,0,0,3.536,0,2.5,2.5,0,0,0-1.767-4.267Z" transform="translate(-15.364 -2.636)" fill="#2962ff"/>
+    <path id="Path_7539" data-name="Path 7539" d="M13.529,44.971a2.5,2.5,0,0,0-1.768,4.268,2.562,2.562,0,0,0,3.536,0,2.5,2.5,0,0,0-1.768-4.267Z" transform="translate(-2.635 -15.364)" fill="#2962ff"/>
+    <path id="Path_7540" data-name="Path 7540" d="M31,14h1.25v5.625H31Z" transform="translate(-10.125 -3.75)" fill="#2962ff"/>
+    <path id="Path_7541" data-name="Path 7541" d="M0,0H4.419V1.25H0Z" transform="translate(25.429 16.684) rotate(-45)" fill="#2962ff"/>
+    <path id="Path_7542" data-name="Path 7542" d="M44,31h3.75v1.25H44Z" transform="translate(-15 -10.125)" fill="#2962ff"/>
+    <path id="Path_7543" data-name="Path 7543" d="M0,0H1.25V3.536H0Z" transform="translate(26.053 26.942) rotate(-45)" fill="#2962ff"/>
+    <path id="Path_7544" data-name="Path 7544" d="M31,41h1.25v5.625H31Z" transform="translate(-10.125 -13.875)" fill="#2962ff"/>
+    <path id="Path_7545" data-name="Path 7545" d="M0,0H3.536V1.25H0Z" transform="translate(13.554 28.556) rotate(-45)" fill="#2962ff"/>
+    <path id="Path_7546" data-name="Path 7546" d="M14,31h3.75v1.25H14Z" transform="translate(-3.75 -10.125)" fill="#2962ff"/>
+    <path id="Path_7547" data-name="Path 7547" d="M0,0H1.25V4.419H0Z" transform="translate(13.555 14.442) rotate(-45)" fill="#2962ff"/>
+  </g>
+</svg>

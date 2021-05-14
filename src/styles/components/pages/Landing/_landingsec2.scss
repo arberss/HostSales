@@ -1,0 +1,38 @@
+.landingSec2 {
+  padding: 8rem 0;
+  text-align: center;
+
+  &__title {
+    font-size: $font-size-small;
+
+    color: $color-gray-1;
+
+    background-color: $color-gray-2;
+    padding: 0.5rem 2rem;
+    display: inline-block;
+    border-radius: 5rem;
+  }
+
+  &__content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    @include respond(phone) {
+      justify-content: center;
+    }
+  }
+
+  &__img {
+    max-width: 10rem;
+    width: 100%;
+    height: 3rem;
+    margin-top: 2rem;
+
+    margin-right: 6rem;
+
+    @include respond(phone) {
+      margin-right: 2rem;
+    }
+  }
+}

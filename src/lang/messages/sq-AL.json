@@ -1,0 +1,386 @@
+{
+
+  "navList1": "Tiparet",
+    "navList2": "Çmimi",
+    "navList3": "Mbështetja",
+    "navList4": "Burimet",
+    "navList5": "Blog",
+
+     "featuresSubMenu1Title": "Sistemi i menaxhimit të të mësuarit të hostclass",
+     "featuresSubMenu2Title": "Mësimi Virtual me Konferenca në Ueb",
+     "featuresSubMenu3Title": "Raportimi dhe analizimi i rafteve të klasit të hosts",
+     "featuresSubMenu4Title": "Aktivitet i kufizuar për anëtarët e klasës",
+     "featuresSubMenu5Title": "Puna në ekipe me sistemin e bashkëpunimit Hostclass",
+     "featuresSubMenu6Title": "Përdorni Hostclass kudo dhe kur të doni",
+
+  "landingSec1Title": "Mësoni përmes lidhjes me klasën tuaj ",
+  "landingSec1Text": "Nga detyrat në bashkëpunim, HostClass ju ndihmon të sillni klasën tuaj së bashku në një app të thjeshtë, të lehtë për t'u përdorur.",
+  "landingSec2Title": "Mëso më mirë së bashku",
+  "landingSec2Text": "HostClass kombinon të gjitha mjetet thelbësore për detyra, reagime dhe komunikim në një app të lehtë për t'u përdorur. Kjo do të thotë më pak kohë e humbur me instalimin tuaj të teknologjisë, dhe më shumë kohë për mësim.",
+  "togetherCard1Title": "Rrit mësimdhënien dhe të mësuarit",
+  "togetherCard1Li1": "Shtoni studentët direkt, ose ndani një kod ose lidhje në mënyrë që e gjithë klasa të mund të bashkohet",
+  "togetherCard1Li2": "Vendos një klasë në minuta dhe krijo punë në klasë që shfaqen në kalendarët e nxënësve",
+  "togetherCard1Li3": "Komunikoni lehtësisht me studentët dhe dërgojini automatikisht atyre përditësime",
+  "togetherCard2Title": "Dërgoni studentëve reagime",
+  "togetherCard2Li1": "Dërgoni komente për detyrat e paraqitura nga studentët",
+  "togetherCard2Li2": "Nota në mënyrë të vazhdueshme dhe transparente me sistem të integruar për punën e studentëve",
+  "togetherCard2Li3": "Le të skanojnë studentët punën e tyre për plagjiatura të mundshme",
+  "togetherCard3Title": "Qëndroni të lidhur",
+  "togetherCard3Li1": "Lidhuni me nxënësit tuaj nga kudo me klasat virtuale",
+  "togetherCard3Li2": "Komunikoni njoftime të rëndësishme në faqen Stream",
+  "togetherCard3Li3": "Aktivo lidhjet ballë për ballë me studentët duke përdorur platformën HostClass",
+
+  "landingToolBannerTitle": "Mjete që ju ndihmojnë të frymëzoni studentët.",
+  "landingToolBannerText": "Studentët mësojnë më mirë kur reagimi është si unik, ashtu edhe personal. Suita e mjeteve të fuqishme të HostClass e bëjnë të lehtë për t'u dhënë reagime të pasura, reagime të diferencuara për aftësitë e të mësuarit, kështu që të gjithë marrin ndihmën që u duhet për të pasur sukses.",
+
+  "hostClassCompanies": "HOSTCLASS ËSHTË I BESUAR NGA EMRA TË MËDHENJ SI",
+  
+  "onlineCardTitle": "Çdo gjë që ju duhet për të pasur sukses me klasat tuaja online.",
+  "onlineCard1Title": "Lajmërimi i përmbajtjes",
+  "onlineCard1Text": "Automatikisht dorëzoni njoftimin e përmbajtjes sipas një orari të paracaktuar, në kohën e saktë kur studentët tuaj duhet ta marrin atë.",
+
+  "onlineCard2Title": "Nxitës e angazhimit",
+  "onlineCard2Text": "Bashkëveproni me të mësuarit në bazë të veprimeve që ata marrin në klasën tuaj. A kanë disa studentë që janë prapa? Ka edhe një shkas nxitës për këtë!",
+
+  "onlineCard3Title": "Menaxhim i shpejtë i përdoruesve",
+  "onlineCard3Text": "Krijoni grupe nxënësish (dhe nën-grupe brenda atyre grupeve), shtoni nxënësit në nivelet e anëtarësisë, regjistroni një nën-grup nxënësish në klasa të shumta, automatikisht hiqni qasjen në kurs, dhe më shumë!",
+
+  "resourcesTitle": "Eksploroni burimet",
+  "resourcesCard1Title": "Përmbledhje",
+  "resourcesCard1Text": "Merrni një pamje të shpejtë të përfitimeve të HostClass duke përfshirë thjeshtësimin e punës tuaj në mënyrë që të mësoni më lehtë.",
+  "resourcesCard1Button": "Shkarko",
+  "resourcesCard2Title": "Filloni me HostClass",
+  "resourcesCard2Text": "Mësoni si të organizoni klasa, dhe të organizoni klasa virtuale me karakteristikat e HostClass. Organizo detyrat e tua dhe jepu studentëve reagim të shpejtë.",
+  "resourcesCard2Button": "Shiko videon",
+  "resourcesCard3Title": "Merrni burime dhe këshilla nga mësuesit e tjerë",
+  "resourcesCard3Text": "Përdorni HostClass në mënyrën më të mirë të mundshme. Mësoni këshilla dhe merrni reagime nga mësuesit dhe edukatorët e tjerë.",
+  "resourcesCard3Button": "Burimet",
+
+  "plansTitle": "Planet & Çmimet",
+  "plansFor1": "Për mësuesit",
+  "plansBadge1": "Pro",
+    "plansMonth": "në muaj",
+    "plans1Title": "Përfshin gjithçka në HostClass Basic Edicion, plus:",
+    "plans1Li1": "Detyra të pakufizuara",
+    "plans1Li2": "Diskutimi në klasë & Grupe",
+    "plans1Li3": "Bashkë-mësimdhënia dhe aksesi i prindërve",
+    "plans1Li4": "Portofolet dhe notat e studentëve",
+    "plans1Li5": "Ngarkime më të mëdha",
+    "plans1Li6": "Prioritet për mbështetjen e klientit",
+    "plans1Btn": "Merrni Pro Tani",
+
+    "plansBadge2": "Bazike",
+    "plansPrice2": "Falas",
+    "plans2Title": "Punë e lehtë për detyrat dixhitale për ju dhe studentët tuaj.",
+    "plans2Li1": "Klasa dhe studentë të pakufizuar",
+    "plans2Li2": "Shënimet e dokumenteve",
+    "plans2Li3": "Shënime zëri dhe teksti",
+    "plans2Li4": "Caktimi i detyrave",
+    "plans2Li5": "Hyrja në çdo pajisje",
+    "plans2Btn": "Regjistrohu falas",
+
+    "plansBadge3": "Profesional",
+    "plansFor3": "Për institucione",
+    "plans3Title": "Përfshin gjithçka në HostClass Pro për mësuesit, plus:",
+    "plans3Li1": "Kuizim dhe vlerësim i integruar",
+    "plans3Btn": "Merr profesional tani",
+
+    "testimionals": "Dëshmi",
+    "testimionalTitle": "Çfarë mendojnë përdoruesit e HostClass",
+    "testimionalPersonTitle": "Studentët mund të përqendrohen në mësim dhe fakulteti mund të përqendrohet në mësimdhënie.",
+    "testimionalMobTitle": "Përdorni HostClass me aplikacionin celular",
+    "testimionalMobText": "Asnjëherë mos e humbni një orë klasike virtuale të takimit ose të hiqni dorë nga biseda. Qëndroni të lidhur me shokët e klasës dhe instruktorët me diskutime në klasë dixhitale dhe seanca klasike në kohë reale.",
+
+    "featuresSec1Title": "Mëso gjithkund",
+    "featuresSec1Text":  "HostClass ju mban juve dhe studentët tuaj në të njëjtën faqe, pavarësisht nëse jeni duke përdorur iPad, iPhone ose pothuajse çdo kompjuter ose pajisje me një lidhje interneti.",
+
+    "featuresHostCart1Title": "HostClass Web App",
+     "featuresHostCart1Text": "Ju dhe studentët tuaj mund të hyni në HostClass kudo, duke përfshirë laptopin, chromebook-un, apo edhe telefonin tuaj Android.",
+
+     "featuresHostCart2Title": "HostClass iPad/Tablet",
+     "featuresHostCart2Text": "Përfitoni sa më shumë nga klasa me iPad ose Tabletë. HostClass ka gjithçka që ju nevojitet në një aplikacion të vetëm, të lehtë për t'u përdorur.",
+
+     "featuresHostCart3Title": "HostClass Mobile App",
+     "featuresHostCart3Text": "Me HostClass në xhepin tuaj, është e lehtë të qëndrosh në kontakt me studentët dhe të japësh komente të vlefshme kur është më e nevojshme.",
+
+     "featuresSec3Title": "Shihni se si funksionon Hostclass dhe përfitimet që mund të sjellë në klasën tuaj",
+
+     "featuresSec4Title": "Detyrat bëhen të lehta",
+    "featuresSec4Card1Title": "Ndaj çdo gjë",
+    "featuresSec4Card1Text": "Shpërndani menjëherë dokumentet, imazhet, udhëzimet dhe komentet për të gjithë klasën tuaj, një grup studentësh.",
+
+    "featuresSec4Card2Title": "Dokumentet formohen kudo",
+    "featuresSec4Card2Text": "Shtoni dokumente nga kompjuteri juaj, aplikacioni i preferuar i iPad, Dropbox ose Google Drive në disa hapa.",
+
+    "featuresSec4Card3Title": "Komentet, lidhjet & shënimet zanore",
+    "featuresSec4Card3Text": "Shtoni shpejt udhëzime ose lidhje me detyrat. Mund të regjistroni një shënim zanor me udhëzime verbale për studentët tuaj.",
+
+    "featuresSec4Card4Title": "Dosjet e klasës",
+    "featuresSec4Card4Text": "Krijoni ndonjë numër dosjesh brenda një klase për të mbajtur detyrat dhe dokumentet tuaja të organizuara dhe të lehta për t'u gjetur.",
+
+    "featuresSec4Card5Title": "Fotografitë dhe videot",
+    "featuresSec4Card5Text": "Rregulloni dhe modifikoni lehtësisht imazhe nga kamera juaj ose ndonjë pajisje. Bëni klasat tuaja argëtuese me skedarë mediatikë interaktivë.",
+
+    "featuresSec4Card6Title": "Hyni në Detyrat e Ngarkuara",
+    "featuresSec4Card6Text": "Ngarko përmbajtjen tënde ose zgjidh nga qindra detyra dhe plane mësimesh, të ngarkuara tashmë në HostClass.",
+
+    "featuresSec5Title": "Menaxhoni kurset dhe nxënësit tuaj me fleksibilitet dhe lehtësi.",
+      "featuresSec5Text": "Më shumë kontroll mbi nxënësit dhe kurset tuaja sesa pothuajse çdo sistem i menaxhimit të mësimit në treg.",
+      "featuresSec5Card1Title": "Menaxhimi i Grupit",
+      "featuresSec5Card1Text": "Vendosi përdoruesit në grupe dhe nëngrupe, pastaj lejo që të tjerët të menaxhojnë.",
+
+      "featuresSec5Card2Title": "Raportim i hollësishëm",
+      "featuresSec5Card2Text": "Ekzekutoni shpejt raporte mbi regjistrimin, përparimin dhe performancën.",
+
+      "featuresSec5Card3Title": "Menaxhimi i Caktimit",
+      "featuresSec5Card3Text": "Vendos përdoruesit në grupe dhe nëngrupe, pastaj lejo të tjerët të menaxhojnë.",
+
+      "featuresSec5Card4Title": "Libri i notave",
+      "featuresSec5Card4Text": "Sinkronizimi me kuizin & caktimet e HostClass, dhe notimi manual.",
+
+      "featuresSec6Title": "Mjetet e duhura për punën",
+     "featuresSec6Card1Title": "Shikues i zgjuar i dokumenteve",
+     "featuresSec6Card1Text": "HostClass punon si magji, duke shfaqur PDF, imazhe, libra elektronikë, audio dhe video saktësisht në mënyrën që dëshironi.",
+
+     "featuresSec6Card2Title": "Mjete teksti",
+     "featuresSec6Card2Text": "Ju dhe studentët tuaj mund të shkruani tekst direkt në faqe, me kontroll mbi madhësinë e shkronjave, ngjyrën dhe shtrirjen.",
+
+     "featuresSec6Card3Title": "Vegla stilolapsi",
+     "featuresSec6Card3Text": "Përdorni stilolapsin për të vizatuar drejt dokumentet tuaja. Klasat e HostClass Pro mund të përdorin një larmi të gjerë ngjyrash dhe trashësish vijash.",
+
+     "featuresSec6Card4Title": "Vegla e shprehur me zë",
+     "featuresSec6Card4Text": "Regjistroni audion dhe ngjiteni atë menjëherë në faqe. Kapni studentët tuaj duke lexuar, kënduar ose praktikuar një gjuhë të re me një trokitje të vetme!",
+
+     "featuresSec6RightCard": "Kjo është një detyrë e re që do të diskutojmë në klasën tjetër. Dua që të gjithë ta lexoni dhe të përgatiteni për diskutim. Hostclass është platforma më e mirë që kemi përdorur ndonjëherë. |",
+
+     "featuresSec7Title": "Është e lehtë të fillosh",
+     "featuresSec7Text": "Nuk do shumë kohë për të filluar me mjetin më të mahnitshëm që do të gjeni ndonjëherë. Jepuni studentëve tuaj një klasë të shkëlqyeshme virtuale me HostClass. Studentët janë më të fortë kur mësojnë së bashku, i ndihmoni të ndajnë skedarët dhe idetë me njëri-tjetrin me lehtësi. Krijoni një komunitet në klasë më të sigurt me projekte në grup, rishikim kolegësh dhe diskutime në klasë. ",
+
+     "featuresSec7Img1": "Studentët e mi e duan HostClass",
+     "featuresSec7Img2": "HostClass është i lehtë për t'u përdorur",
+     "featuresSec7Img3": "Klientë të kënaqur",
+
+     "featuresLearningSec1Title": "Menaxhimi i mësimit",
+     "featuresLearningSec1Text": "Gjatë dy dekadave e gjysmë, teknologjia e menaxhimit të të mësuarit ka ndryshuar fytyrën e mësimdhënies dhe të të nxënit. Me tiparet e HostClass, shkollat, universitetet dhe bizneset mund të sigurojnë që të gjithë nxënësit të kenë mundësinë të realizojnë potencialin e tyre." ,
+
+     "featuresLearningSec2Title": "Angazhoni nxënësit tuaj duke përdorur më të mirën e e-mësimit",
+    "featuresLearningSec2Card1Title": "Njoftim i Automatizuar",
+    "featuresLearningSec2Card1Text": "Automatikisht aktivizoni e-mail bazuar në veprimet që bëjnë (ose nuk marrin) nxënësit në një kurs.",
+
+    "featuresLearningSec2Card2Title": "Forume Diskutimesh",
+    "featuresLearningSec2Card2Text": "Inkurajoni bisedën midis nxënësve duke shtuar forume diskutimi specifike për një kurs.",
+    
+    "featuresLearningSec2Card3Title": "Tabelat e drejtuesve",
+    "featuresLearningSec2Card3Text": "Jepni dhe shfaqni nxënësit që marrin rezultatet më të mira në kuize në kurset tuaja.",
+    
+    "featuresLearningSec2Card4Title": "Shenjat dhe Certifikatat",
+    "featuresLearningSec2Card4Text": "Jepni çertifikata zyrtare bazuar në performancën e kuizit, duke përfunduar një kurs, ose të dyja!",
+
+    "featuresLearningSec2Card5Title": "Detyrat",
+    "featuresLearningSec2Card5Text": "Kërkoni paraqitjet e detyrave para se nxënësit të vazhdojnë në mësimet e ardhshme.",
+    
+    "featuresLearningSec2Card6Title": "Libri i notave",
+    "featuresLearningSec2Card6Text": "Shënoni dhe vlerësoni në mënyrë efikase punën e studentëve tuaj duke përdorur listën e klasave brenda Dosjes së Përbashkët.",
+
+    "featuresAlayticsTitleTop": "Të dhëna dhe analiza",
+     "featuresAlayticsTitle": "Të dhëna dhe analiza: Analizat e arsimit",
+     "featuresAlayticsText": "Me ndihmën e zgjidhjeve të bazuara në evidencë të HostClass, kolegjet, universitetet dhe shkollat identifikojnë dhe kapërcejnë pengesat për suksesin e studentëve, mbajnë nxënësit në rrugën e duhur për t'u diplomuar me letra kredenciale me cilësi të lartë dhe zgjedhin rezultatet institucionale.",
+
+     "featuresAlayticsSec2Title1": "Optimizoni përvojën tuaj të tërë studentore",
+    "featuresAlayticsSec2Text1": "HostClass ofron thellësinë dhe gjerësinë e zgjidhjeve analitike që ju nevojiten për të mbështetur një qasje me të vërtetë gjithëpërfshirëse, të integruar dhe të bazuar në prova për mësimdhënien, të mësuarit dhe suksesin e studentit.",
+
+    "featuresAlayticsSec2Title2": "Stack Raportimi HostClass",
+    "featuresAlayticsSec2Text2": "Matni miratimin e mjetit dhe kthimin e investimit dhe përgjigjuni pyetjeve komplekse me qasje të drejtpërdrejtë në të dhënat nga zgjidhjet tuaja të mësimdhënies dhe mësimit të SaaS të HostClass.",
+
+    "featuresAlayticsSec2Title3": "Analizat e HostClass për Mësim",
+    "featuresAlayticsSec2Text3": "Optimizoni modelin e kursit për performancën akademike, përmirësoni efikasitetin e raportimit, mbështesni zhvillimin e fakultetit, promovoni të mësuarit të vetë-rregulluar dhe matni kthimin e investimeve tuaja të teknologjisë arsimore.",
+
+    "featuresAlayticsSec2Title4": "Inteligjenca e HostClass",
+    "featuresAlayticsSec2Text4": "Rritni performancën institucionale me një depo të plotë të sistemit të informacionit të studentit dhe një zgjidhje raportimi në mbështetje të menaxhimit të regjistrimit, mbajtjes, ndihmës financiare, financave strategjike, burimeve njerëzore, avancimit dhe më shumë.",
+
+    "featuresAnalyticsSec3Text": "Caktoni një konsultë me një nga ekspertët tanë të të dhënave dhe analizave për të mësuar se si mund të maksimizoni suksesin institucional dhe të studentëve.",
+
+    "featuresAnalyticsSec4Title": "Përmirëso performancën e studentit dhe institucionit",
+    "featuresAnalyticsSec4Card1Title": "Angazhimi i Studentëve",
+    "featuresAnalyticsSec4Card1Text": "Mësoni se si shkollat ​​po përdorin të dhëna për të përmirësuar shërbimet e tyre studentore. Të kesh këtë nivel depërtimi është më e rëndësishme se kurrë. Ne diskutojmë se si të kemi qasje në të dhënat e aktivitetit të studentëve dhe raportet që mund të jenë tashmë falas për institucionin tuaj.",
+
+    "featuresAnalyticsSec4Card2Title": "Plani Strategjik i Veprimit për të Mësuarit e Analitikës",
+    "featuresAnalyticsSec4Card2Text": "Punëtoria për Strategjinë e të Dhënave të Analizave të Mësimit nga HostClass është krijuar për të ndihmuar institucionet të shohin përtej aspekteve të pritura të të mësuarit në internet dhe të diskutojnë se si mund të përdoret për të adresuar sfidat thelbësore.",
+
+    "featuresAnalyticsSec4Card3Title": "Është një fakt: studentët duan më shumë kurse në internet",
+    "featuresAnalyticsSec4Card3Text": "Mësoni se si shkollat ​​po përdorin të dhëna për të përmirësuar shërbimet e tyre studentore. Të kesh këtë nivel depërtimi është më e rëndësishme se kurrë. Ne diskutojmë se si t'i qasemi të dhënave të aktivitetit të studentëve dhe raporteve që mund të jenë tashmë falas për institucionin tuaj.",
+
+    "featuresCollabSec1TitleTop": "Bashkëpunimi",
+     "featuresCollabSec1Title": "Mjete të thjeshta, të fuqishme për të mësuarit në bashkëpunim",
+     "featuresCollabSec1CardTitle1": "Bashkëpunimi i HostClass:",
+     "featuresCollabSec1CardTitle2": "Sistemi i mësimit në distancë",
+     "featuresCollabSec1CardText": "Një zgjidhje e thjeshtë dhe e besueshme në klasë virtuale për të furnizuar nevojat tuaja të mësimdhënies në internet dhe konferencave në internet.",
+
+     "featuresCollabSec2Title": "Bashkëpunim më i mirë për një mësim më efektiv",
+     "featuresCollabSec2Text": "Nxënësit e sotëm duan mënyra të reja për t'u angazhuar dhe bashkëpunuar. Klasat virtuale dhe zhvillimi profesional në internet ofrojnë mundësi të reja për të takuar nxënësit tuaj atje ku janë. Frymëzoni dhe angazhoni nxënësit tuaj me zgjidhjet e bashkëpunimit në internet që ata kërkojnë.",
+
+     "featuresCollabSec3Title": "Përfitimet për Edukatorët",
+     "featuresCollabSec3Mob1Title": "Arrini lehtësisht studentët tuaj, kudo që janë",
+     "featuresCollabSec3Mob1Text": "Jepuni studentëve tuaj më shumë mundësi për të qëndruar të angazhuar - me mjete bashkëpunuese të të mësuarit për jetën e tyre të mundësuar nga celularët.",
+
+     "featuresCollabSec3Mob2Title": "Bashkëpunim me Karakteristikë të Plotë",
+     "featuresCollabSec3Mob2Text": "Konferencat në ueb duhet të jenë të lehta. Aftësitë tona janë intuitive kështu që ju mund të përqendroheni në angazhimin e të mësuarit, sesa në menaxhimin e teknologjisë.",
+
+     "featuresCollabSec3Mob3Title": "Klasë e kthyer të Gjithë-Në-Një",
+     "featuresCollabSec3Mob3Text": "Mësime kreative miqësore për celular që qëndrojnë aty për aq kohë sa ju dëshironi.",
+
+     "featuresCollabSec4Title": "Përfitimet për Studentët",
+      "featuresCollabSec4Card1Title": "Mësimi juaj, sipas kërkesës",
+      "featuresCollabSec4Card1Text": "Ndalo, kthe mbrapa, ose mësime përpara. Ju jeni përgjegjës për përvojën tuaj të të mësuarit me HastClass Collaborate.",
+
+      "featuresCollabSec4Card2Title": "Video dhe audio e pasur, me cilësi të lartë",
+      "featuresCollabSec4Card2Text": "Audio dhe video HD mundëson një përvojë mësimore më tërheqëse. Shfaqni deri në pesë video HD për konferencë.",
+
+      "featuresCollabSec4Card3Title": "Një klasë që është gjithmonë e ndezur",
+      "featuresCollabSec4Card3Text": "Pavarësisht se ku jeni, punoni me shokët e klasës dhe profesorët nga komoditeti dhe komoditeti i telefonit ose tabletës suaj. Merrni pjesë në klasë ose grupe studimi në distancë. Merrni ndihmë nga mësuesit kudo që të jeni.",
+
+      "featuresConfSec1TitleTop": "Ueb Konferenca",
+      "featuresConfSec1Title": "Mësimi Virtual përmes Ueb Konferencës",
+      "featuresConfSec1Text": "Jepni nxënësve tuaj një zgjidhje të thjeshtë, të përshtatshme dhe të besueshme për të mësuar sinkron që është ndërtuar për edukim dhe trajnim. Nxënësit mund të angazhohen me njëri-tjetrin dhe materialin dhe të ndjehen sikur janë së bashku në të njëjtën dhomë - kudo që u shkon dita e tyre. ata, me pajisjen e tyre të preferuar. ",
+
+      "featuresConfSec2Title": "Program kompjuterik dixhital i klasës",
+      "featuresConfSec2Text": "Ashtu si një klasë personalisht ose një mjedis trajnimi, një klasë virtuale është një vend ku të mësuarit ndodh. Edukatorët lehtësojnë, ndërsa nxënësit angazhohen në mënyrë aktive me materialin dhe bashkëveprojnë me njëri-tjetrin. Të gjitha me lehtësinë e shtuar dhe kursimet e kostove që një mjedis dixhital ka për të ofruar ",
+
+      "featuresConfSec3Title": "Burime të Veçanta",
+
+      "featuresSecurityTitleTop": "Siguria",
+      "featuresSecurityTitle": "Mbani klasën tuaj të mbrojtur",
+      "featuresSecurityLine1": "Sigurohuni që çdo përdorues të ketë një hyrje unike për të mbajtur të sigurt llogaritë individuale",
+      "featuresSecurityLine2": "Kufizo aktivitetin e HostClass për anëtarët e klasës",
+      "featuresSecurityLine3": "Mbroni privatësinë e studentit - të dhënat e studentëve nuk përdoren kurrë për qëllime reklamimi",
+
+      "featuresDevicesSec1TitleTop": "Pajisje të shumta",
+      "featuresDevicesSec1Title": "Keni HostClass kudo me vete ",
+      "featuresDevicesSec1Text": "HostClass është një produkt revolucionar që integron pa probleme në sistemin e menaxhimit të mësimit dhe përqendrohet në bërjen e përmbajtjes dixhitale të kurseve më të arritshme.",
+
+      "featuresDevicesSec2Title": "MBËSHTETUR",
+
+      "featuresDevicesSec3Title": "Formatet alternative për të gjithë nxënësit",
+      "featuresDevicesSec3Text": "Përmirësoni përvojën e përgjithshme të studentëve me formate alternative që u sigurojnë studentëve zgjedhjen dhe fleksibilitetin e shtuar që vjen me një qasje më të personalizuar.",
+
+      "priceSec1Title": "HostClass ofron planet më të mira të çmimeve për ju",
+
+      "priceTableTitle": "Krahasoni planet",
+      "priceTableTd1": "Të gjitha gjërat e domosdoshme për detyra dhe komente me të gjitha klasat dhe studentët tuaj",
+      "priceTableTd2": "Detyrat aktive",
+      "priceTableTd3": "Madhësia maksimale e skedarit",
+      "priceTableTd4": "Gjatësia maksimale e shënimit me zë",
+      "priceTableTd5": "Diskutim në klasë",
+      "priceTableTd6": "Grupet",
+      "priceTableTd7": "Hyrja e prindit",
+      "priceTableTd8": "Portofole studentësh",
+      "priceTableTd9": "Libri i notave",
+
+      "priceTableEveryone": "Të gjithë",
+
+      "priceSec4Title": "Ke plane të mëdha",
+      "priceSec4Text": "Programoni një konsultë me një nga ekspertët tanë të mësimdhënies dhe të të mësuarit për të mësuar se si mund të maksimizoni suksesin institucional dhe të studentëve me HostClass.",
+
+      "priceSec5Title": "Ndonjë pyetje? Ne kemi renditur disa nga pyetjet më të shpeshta!",
+      "priceSec5Tab1": "Të përgjithshme",
+      "priceSec5Tab2": "Pagesa",
+      "priceSec5Tab3": "Teknike",
+      "priceSec5Tab4": "Tjetër",
+
+      "priceAcd1Title": "Sa kohë zgjat HostClass falas botimi bazë?",
+      "priceAcd1Text": "Nëse regjistroheni për një botim falas, ai do të zgjasë për gjithë jetën. Mund të azhurnoni në çdo kohë.",
+
+      "priceAcd2Title": "Çfarë lloje pagese pranoni?",
+      "priceAcd3Title": "A mund të azhurnohem në një plan tjetër në një datë të mëvonshme?",
+      "priceAcd4Title": "A ofroni rimbursime?",
+
+      "priceLimit": "E pakufizuar",
+      "priceMinutes": "30 minuta",
+      "priceMinute": "1 minutë",
+
+      "supportSec1Title": "Si mund të ndihmojmë?",
+     "supportSec1Placeholder": "Vendos fjalën kyçe",
+
+     "supportSec2Card1Title": "Fillimi",
+     "supportSec2Card1Text": "Mësoni si të konfiguroni llogarinë tuaj, klasën tuaj të parë dhe të ngarkoni skedarin tuaj të parë.",
+
+     "supportSec2Card2Title": "Cilësimet dhe njoftimet e llogarisë",
+     "supportSec2Card2Text": "Menaxhoni fjalëkalimin tuaj, ndryshoni adresën tuaj të postës elektronike, rregulloni njoftimet, etj.",
+
+     "supportSec2Card3Title": "Menaxhimi i klasave dhe detyrave",
+     "supportSec2Card3Text": "Mësoni rreth cilësimeve të klasës dhe caktimit, si dhe mënyrën e arkivimit / fshirjes së tyre.",
+
+     "supportSec2Card4Title": "Shtimi i punës",
+     "supportSec2Card4Text": "Nga PDF në shënime zanore dhe skedarë nga aplikacione të tjera - ngarkojini ato në HosClass që të shijojë e gjithë klasa juaj",
+
+     "supportSec2Card5Title": "Menaxhimi i studentëve dhe bashkë-mësuesve",
+     "supportSec2Card5Text": "Mësoni se si studentët bashkohen në një klasë, si të rivendosin fjalëkalimin e tyre ose të marrin emrin e tyre të përdoruesit dhe si të shtoni bashkë-mësues në klasën tuaj.",
+
+     "supportSec2Card6Title": "Pyetjet e shpeshta dhe zgjidhja e problemeve",
+     "supportSec2Card6Text": "Përgjigjet e pyetjeve të zakonshme; zgjidhen problemet e zakonshme!",
+
+     "supportSec2Card7Title": "Turi i Karakteristikave të HostClass",
+     "supportSec2Card7Text": "Shënimet, Grupet, Diskutimi në Klasë, Aksesi i Prindërve - mësoji të gjitha këtu!",
+
+     "supportSec2Card8Title": "Privatësia",
+     "supportSec2Card8Text": "Klasa e hostit në lidhje me privatësinë dhe politikat e studentëve.",
+
+     "supportSec2Card9Title": "Cilësimet e aplikacionit",
+     "supportSec2Card9Text": "Sillni skedarët tuaj nga aplikacionet e tjera në HostClass!",
+
+     "supportSec2Card10Title": "Cilësimet e aplikacionit në ueb",
+     "supportSec2Card10Text": "Mësoni si të përdorni aplikacionin në internet të HostClass dhe sfidat me të cilat mund të përballeni.",
+
+     "supportSec2Card11Title": "Administratorët e HostClass",
+     "supportSec2Card11Text": "Udhëzime për të ndihmuar shkollat ​​dhe rrethet Pro të përdorin panelin e administratorit.",
+
+     "supportSec2Card12Title": "Pajtueshmëria e GDPR",
+     "supportSec2Card12Text": "Azhurnimi i masave që HostClass ka marrë për t'u bërë në përputhje me GDPR.",
+      
+
+      "loginTitle": "Kyçuni në HostClass",
+      "loginText": "Mirësevini përsëri!",
+
+      "signupAccount": "Krijo një llogari të re",
+     
+      "accEmail": "Email",
+      "accEnterEmail": "Vendos emailin tënd",
+      "accPass": "Fjalëkalimi",
+      "accEnterPass": "Vendos fjalëkalimin tënd",
+      "accRemember": "Më kujto",
+      "accForgotPw": "Keni harruar fjalëkalimin?",
+      "accsignup": "Nuk keni ende llogari?",
+      "acclogin": "Keni tashmë një llogari?",
+      "accFullName": "Emri i plotë",
+      "accEnterFullName": "Vendos emrin tënd",
+
+      "accAccept": "Unë pranoj ",
+
+       "PrivatePolicy": "Politika private",
+       "TermUse": "Afati i përdorimit",
+
+       "or": "OSE",
+     
+
+    "subscribeTitle": "Njoftohuni për gjithçka!",
+    "subscribeText": "Abonohuni në gazetën tonë",
+    "subscribeInput": "Vendosni emailin tuaj",
+    "subscribeBtn": "Abonohu",
+
+    "footerTitle": "Jepni studentit tuaj një përvojë të jashtëzakonshme të arsimit",
+
+    "buttonStarted": "Fillo tani",
+    "buttonFeatures": "Karakteristikat",
+    "buttonLearnMore": "Mëso më shumë",
+    "buttonLogIn": "Kyçu",
+    "buttonSignUp": "Regjistrohu",
+    "buttonSignUpWith": "Regjistrohu përmes",
+    "buttonSignUpNow": "Regjistrohu tani",
+    "buttonSignUpFree": "Regjistrohu falas",
+    "buttonWatch": "Shiko videon",
+    "buttonContact": "Na Kontaktoni",
+    "buttonExpert": "Kontaktoni ekspertët tanë",
+    "buttonViewMore": "Shiko më shumë",
+    "buttonPurchase": "Blej tani"
+
+}

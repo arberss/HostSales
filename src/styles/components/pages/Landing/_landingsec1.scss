@@ -1,0 +1,151 @@
+.landingSec1 {
+  padding: 10rem 0;
+  margin-top: 10rem;
+  position: relative;
+
+  @include respond(tab-port) {
+    margin-top: 0;
+    padding: 12rem 0;
+  }
+
+  &::after {
+    content: '';
+
+    width: 54%;
+    height: 100%;
+
+    position: absolute;
+    top: -2rem;
+    right: -8rem;
+
+    background: url('../../../../assets/img/Landing/rectangle1.png') no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    @include respond(tab-port) {
+      width: 50vw;
+      height: 65%;
+      top: 0;
+      right: 0;
+      z-index: -1;
+      background-size: inherit;
+    }
+  }
+
+  &__content {
+    display: flex;
+
+    @include respond(tab-port) {
+      flex-direction: column-reverse;
+      justify-content: center;
+    }
+  }
+
+  &__left {
+    flex: 1;
+    margin-right: 15rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    @include respond(tab-land) {
+      margin-right: 7rem;
+    }
+
+    @include respond(tab-port) {
+      margin-right: 0;
+      margin-top: 8rem;
+      text-align: center;
+    }
+  }
+
+  &__title {
+    font-size: $font-size-extra-largest;
+    font-family: $font-primary-bold;
+  }
+
+  &__text {
+    font-size: $font-size-normal;
+    margin: 2rem 0;
+  }
+
+  &__buttons {
+    display: flex;
+
+    @include respond(tab-port) {
+      justify-content: center;
+    }
+  }
+
+  &__btn {
+    display: flex;
+    align-items: center;
+
+    &--1 {
+      margin-right: 2rem;
+    }
+
+    &--2 {
+      font-weight: 100 !important;
+    }
+  }
+
+  &__icon1-left {
+    margin-left: 2rem;
+    font-size: $font-size-large;
+  }
+
+  &__icon2-left {
+    margin-right: 0.5rem;
+    font-size: $font-size-large;
+  }
+
+  &__right {
+    flex: 1.5;
+
+    @include respond(tab-land) {
+      flex: 1.2;
+    }
+  }
+
+  &__right-content {
+    width: 70%;
+    position: relative;
+    z-index: 2;
+
+    @include respond(tab-port) {
+      margin: 0 auto;
+    }
+
+    @include respond(phone) {
+      width: 100%;
+    }
+  }
+
+  &__right-img {
+    width: 100%;
+  }
+
+  &__right-img2 {
+    position: absolute;
+
+    &--1 {
+      width: 30%;
+      right: 0;
+      bottom: -6rem;
+    }
+
+    &--2 {
+      width: 40%;
+      right: -8rem;
+      bottom: 50%;
+    }
+
+    &--3 {
+      width: 40%;
+      left: 5rem;
+      bottom: -2rem;
+    }
+  }
+}

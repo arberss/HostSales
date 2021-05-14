@@ -1,0 +1,40 @@
+.leftRuler {
+  border-left: 3px dashed $color-gray-3;
+  padding-left: 4rem;
+  margin: 5rem 0 3rem 0;
+
+  &__info {
+    &:not(:first-child) {
+      margin-top: 4rem;
+    }
+
+    &--circle {
+      position: relative;
+
+      &::after {
+        content: '';
+        width: 2.8rem;
+        height: 2.8rem;
+        background-color: $color-white;
+        border-radius: 50%;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+        position: absolute;
+        top: -0.2rem;
+        left: -5.5rem;
+      }
+    }
+  }
+
+  &__title {
+    font-size: 1.6rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+
+  &__text {
+    font-size: 1.1rem;
+    line-height: 2rem;
+    margin-top: 1rem;
+  }
+}

@@ -1,0 +1,292 @@
+.login {
+  position: relative;
+  margin-top: $nav-height;
+
+  padding: 8rem 0;
+
+  &::before {
+    content: '';
+
+    background: url('../../../../assets/img/Auth/blue1.png') no-repeat;
+    background-size: contain;
+    background-position: center;
+
+    width: 65vw;
+    height: 100%;
+
+    position: absolute;
+    right: -8%;
+    top: -20%;
+
+    z-index: -1;
+
+    @include respond(phone) {
+      width: 100%;
+      right: 0;
+      top: 0;
+      background-size: cover;
+    }
+  }
+
+  &::after {
+    content: '';
+
+    background: url('../../../../assets/img/Auth/blue2.png') no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    width: 50vw;
+    height: 85%;
+
+    position: absolute;
+    left: -8%;
+    bottom: -16%;
+
+    z-index: -1;
+
+    @include respond(phone) {
+      width: 100%;
+      height: 100%;
+      left: 0;
+    }
+  }
+
+  &__content {
+    margin: 0 auto;
+
+    position: relative;
+    z-index: 2;
+  }
+
+  &__elipse {
+    width: 45rem;
+    height: 100%;
+
+    position: absolute;
+
+    background: url('../../../../assets/img/Auth/elipse.png') no-repeat;
+    background-size: contain;
+    background-position: center;
+
+    &--1 {
+      top: -12%;
+      right: 18%;
+    }
+
+    &--2 {
+      top: 25%;
+      left: 18%;
+    }
+  }
+
+  &__helpbox {
+    color: gray;
+    background-color: $color-white;
+    border-radius: 0.8rem;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
+      rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+
+    width: 5rem;
+    height: 5rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    right: -13rem;
+    bottom: -2.5rem;
+
+    @include respond(phone) {
+      right: unset;
+      left: 50%;
+      bottom: -8rem;
+    }
+
+    &:hover {
+      box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 4px 0px;
+    }
+  }
+
+  &__question-icon {
+    font-size: 1.8rem;
+  }
+
+  &__help {
+    font-size: 1.1rem;
+    font-weight: lighter;
+    margin-top: 3px;
+  }
+}
+
+.account {
+  &__content {
+    width: 100%;
+    max-width: 46rem;
+    padding: 4rem 4rem 2.5rem 4rem;
+
+    background-color: $color-white;
+    border-radius: 1.5rem;
+    box-shadow: rgba(99, 99, 99, 0.1) 0px 2px 8px 0px;
+
+    @include respond(phone) {
+      padding: 4rem 2.5rem 2.5rem 2.5rem;
+    }
+  }
+
+  &__title {
+    font-family: $font-primary-bold;
+    font-size: 1.8rem;
+    font-weight: normal;
+    text-align: center;
+  }
+
+  &__text {
+    margin: 1.5rem 0;
+    font-size: $font-size-normal;
+  }
+
+  .form {
+    width: 100%;
+    margin-top: 3rem;
+    position: relative;
+
+    &__label {
+      color: $color-black;
+      font-family: $font-primary-bold;
+      font-size: $font-size-small;
+    }
+
+    &__input-content {
+      color: $color-gray-5;
+      position: relative;
+
+      &:not(:first-child) {
+        margin-top: 0.8rem;
+      }
+    }
+
+    &__icon {
+      position: absolute;
+      top: 30%;
+      left: 20px;
+      font-size: $font-size-large;
+
+      &--pass {
+        left: auto;
+        right: 10px;
+        cursor: pointer;
+      }
+    }
+
+    &__input {
+      width: 100%;
+      padding: 1.2rem 3.4rem 1.2rem 4.6rem;
+      border: 1px solid $color-gray-3;
+      border-radius: 8px;
+      // margin-top: 0.5rem;
+      color: $color-black;
+      font-size: $font-size-normal;
+      border-radius: 5rem;
+
+      &::placeholder {
+        color: $color-gray-1;
+        font-family: $font-primary-regular;
+        font-size: $font-size-small;
+      }
+
+      &:focus {
+        border: 1px solid $color-blue;
+
+        + .form__icon {
+          color: $color-blue;
+        }
+
+        &::placeholder {
+          color: transparent;
+        }
+      }
+    }
+
+    &__account {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 1.5rem;
+    }
+
+    &__pass-forgot {
+      display: flex;
+      align-items: center;
+      font-size: $font-size-small;
+    }
+
+    &__icon-passforgot {
+      font-size: $font-size-normal;
+      color: $color-gray-1;
+    }
+
+    &__label-checkbox {
+      margin-left: 5px;
+    }
+
+    &__button {
+      width: 100%;
+      margin-top: 3rem;
+      padding: 1.5rem 2rem;
+    }
+
+    &__remember {
+      font-size: $font-size-small;
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  &__register {
+    margin-top: 1rem;
+    font-size: $font-size-normal;
+    text-align: center;
+
+    @include respond(tab-port) {
+      text-align: center;
+    }
+  }
+
+  &__link {
+    color: $color-blue;
+    margin-left: 5px;
+  }
+
+  &__googlebtn {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.2rem 2rem;
+
+    color: $color-black;
+    background: $color-white;
+    border: 1px solid $color-gray-3;
+    margin-bottom: 3rem;
+  }
+
+  &__google-icon {
+    font-size: 2rem;
+    margin-right: 1rem;
+  }
+
+  &__or {
+    display: block;
+    padding: 1.2rem 0;
+    font-size: 1.2rem;
+    text-align: center;
+    color: $color-gray-5;
+  }
+
+  &__copyright {
+    text-align: center;
+    font-size: 1.1rem;
+    padding-top: 1rem;
+  }
+}

@@ -1,0 +1,81 @@
+.productPricing {
+  margin-top: $nav-height;
+
+  padding: 2rem 0;
+
+  &__content {
+    text-align: center;
+  }
+
+  &__top {
+    padding: 1.5rem 0 3rem 0;
+  }
+
+  &__top-title {
+    font-size: 3rem;
+    color: $color-blue;
+    font-family: $font-primary-bold;
+  }
+
+  &__top-text {
+    font-size: 1.2rem;
+    margin-top: 1.2rem;
+  }
+
+  &__cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(18rem, 22rem));
+    justify-content: center;
+    grid-gap: 6rem 3rem;
+    margin-top: 3rem;
+  }
+
+  &__card {
+    height: 24rem;
+    padding: 2rem 2rem 3rem 2rem;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 4px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    &:hover {
+      box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    }
+  }
+
+  &__iconbody {
+    width: 7rem;
+    height: 7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: linear-gradient(
+      180deg,
+      rgba(130, 188, 245, 0.8) 50%,
+      rgba(227, 147, 251, 0.4) 90%
+    );
+    border-radius: 50%;
+  }
+
+  &__icon {
+    transform: scale(0.8);
+  }
+
+  &__title {
+    padding: 1.5rem 0;
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+
+  &__text {
+    font-size: 1rem;
+    flex-grow: 1;
+  }
+
+  &__button {
+    color: $color-blue;
+    font-size: 1.1rem;
+  }
+}

@@ -1,0 +1,78 @@
+.select-language {
+  color: white;
+  cursor: pointer;
+  display: flex;
+  position: relative;
+
+  align-items: center;
+}
+.select-language .arrow {
+  margin-left: 5px;
+}
+.select-language .single-language {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  padding: 5px;
+  width: 100%;
+}
+
+.select-language .smallFlag {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-right: 5px;
+
+  display: block;
+}
+
+.select-language .single-language .flag {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+.select-language .single-language .text {
+  font-size: 12px;
+}
+.select-language .single-language:hover {
+  background-color: #392a53;
+}
+.select-language .single-language.selected {
+  background-color: #392a53;
+}
+.select-language .dropdown {
+  position: absolute;
+  bottom: 40px;
+  left: -3px;
+  right: -3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #241046;
+  /* border: 3px solid #fff; */
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.5s linear;
+  border-bottom: none;
+  visibility: hidden;
+  padding: 5px 1px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.select-language:hover {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-top: none;
+}
+.select-language:hover .dropdown {
+  /* max-height: 400px; */
+  max-height: 35rem;
+  visibility: visible;
+}
+.select-language img {
+  margin-right: 5px;
+  width: 20px;
+  height: 20px;
+}

@@ -1,0 +1,148 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  font-family: $font-primary-regular;
+}
+
+main {
+  overflow: hidden;
+}
+
+html {
+  font-size: 62.5%; // 1rem = 10px, 10/16 = 0.625 * 100 => 62.5%
+
+  @include respond(big-desktop) {
+    font-size: 100%;
+  }
+
+  @include respond(normal-desktop) {
+    font-size: 80%;
+  }
+
+  @include respond(tab-port) {
+    font-size: 50%;
+  }
+}
+
+.container {
+  width: 100%;
+  // max-width: 100%;
+  // width: 140rem;
+  margin: 0 auto;
+  padding: 0 1.5rem 0 10rem;
+
+  @include respond(tab-land) {
+    padding: 0 1.2rem 0 8rem;
+  }
+
+  @include respond(tab-port) {
+    padding: 0 1rem 0 5rem;
+  }
+
+  @include respond(phone) {
+    padding: 0 1rem;
+  }
+}
+
+.container-second {
+  width: 100%;
+  // width: 140rem;
+  // max-width: 100%;
+  margin: 0 auto;
+  padding: 0 0 0 10rem;
+
+  @include respond(tab-land) {
+    padding: 0 0 0 8rem;
+  }
+
+  @include respond(tab-port) {
+    padding: 0 0 0 5rem;
+  }
+
+  @include respond(phone) {
+    padding: 0 1rem;
+  }
+}
+
+.container-third {
+  width: 100%;
+  // width: 140rem;
+  // max-width: 100%;
+  margin: 0 auto;
+  padding: 0 5rem 0 0;
+
+  @include respond(tab-land) {
+    padding: 0 4rem 0 0;
+  }
+
+  @include respond(tab-port) {
+    padding: 0 2.5rem 0 0;
+  }
+
+  @include respond(phone) {
+    padding: 0 1rem;
+  }
+}
+
+.container-middle {
+  width: 100%;
+  // width: 140rem;
+  // max-width: 100%;
+  margin: 0 auto;
+  padding: 0 10rem;
+
+  @include respond(tab-land) {
+    padding: 0 8rem;
+  }
+
+  @include respond(tab-port) {
+    padding: 0 5rem;
+  }
+
+  @include respond(phone) {
+    padding: 0 1rem;
+  }
+}
+
+.container-middle-small {
+  width: 100%;
+  // width: 140rem;
+  // max-width: 100%;
+  margin: 0 auto;
+  padding: 0 6rem;
+
+  @include respond(tab-land) {
+    padding: 0 5rem;
+  }
+
+  @include respond(tab-port) {
+    padding: 0 3rem;
+  }
+
+  @include respond(phone) {
+    padding: 0 1rem;
+  }
+}
+
+// body scrollbar
+
+body::-webkit-scrollbar {
+  width: 0.8em;
+}
+
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}

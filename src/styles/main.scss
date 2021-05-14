@@ -1,0 +1,40 @@
+@import 'abstracts/mixins';
+@import 'abstracts/variables';
+
+@import 'base/global';
+@import 'base/rest';
+@import 'base/typography';
+
+// components
+
+// landing
+@import 'components/pages/Landing/landingsec1';
+@import 'components/pages/Landing/landingsec2';
+@import 'components/pages/Landing/landingsec3';
+
+// pricing
+@import 'components/pages/Pricing/accordionSection';
+@import 'components/pages/Pricing/pricingTestimional';
+@import 'components/pages/PricingSales/pricingsales';
+@import 'components/pages/PricingSales/allfeatures';
+@import 'components/pages/PricingSales/sellanywhere';
+
+// shared
+@import 'components/shared/Loading/loading';
+
+@import 'components/shared/Nav/nav';
+@import 'components/shared/MobileNav/mobilenav';
+@import 'components/shared/Crm/crm';
+@import 'components/shared/LeftRuler/leftruler';
+@import 'components/shared/LandingRow/landingRow';
+@import 'components/shared/HostSaleBanner/hostsalebanner';
+@import 'components/shared/WebApps/webapps';
+@import 'components/shared/UsersThink/usersthink';
+@import 'components/shared/GrowFast/growfast';
+@import 'components/shared/TopFooter/topfooter';
+@import 'components/shared/Footer/footer';
+@import 'components/shared/ProductPricing/productpricing';
+@import 'components/shared/Accordion/accordion';
+
+@import 'components/shared/Auth/login';
+@import 'components/shared/Auth/signup';

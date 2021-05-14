@@ -1,0 +1,138 @@
+.crm {
+  padding: 2rem 0 4rem 0;
+
+  &__title {
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+
+  &__content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  &__card {
+    width: 24rem;
+    height: 26rem;
+    border: 1px solid $color-gray-3;
+    margin-right: 2rem;
+    margin-top: 3rem;
+    padding: 3rem 1.5rem;
+    border-radius: 0.5rem;
+
+    display: flex;
+    flex-direction: column;
+
+    &:hover {
+      .crm__card-icon {
+        animation: iconAnm 1s ease-in-out;
+      }
+    }
+  }
+
+  &__card-icon {
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+
+  &__card-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 3rem 0 0.5rem 0;
+  }
+
+  &__card-text {
+    font-size: 1.2rem;
+    margin-bottom: 3rem;
+
+    flex-grow: 1;
+
+    display: flex;
+    align-items: center;
+  }
+
+  &__card-bottom {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__card-btn {
+    font-size: 1.1rem;
+    font-weight: lighter;
+    color: $color-blue-3;
+
+    display: flex;
+    align-items: center;
+  }
+
+  &__btn-icon {
+    font-size: 1.2rem;
+
+    &--1 {
+      margin-right: 2px;
+    }
+
+    &--2 {
+      font-size: 1.5rem;
+      margin-left: 5px;
+    }
+  }
+
+  &__card2 {
+    text-align: center;
+    border: 1px solid $color-gray-2;
+    padding: 1.5rem 3rem;
+    position: relative;
+  }
+
+  &__card2-title {
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+
+  &__card2-img {
+    width: 18rem;
+    height: 70%;
+    position: absolute;
+    bottom: -2rem;
+    left: 15%;
+  }
+
+  &__card2-btn {
+    margin: 1rem auto;
+    padding: 0.5rem 2rem;
+    border: 1px solid $color-blue;
+    border-radius: 10rem;
+    font-size: 1.1rem;
+    font-weight: lighter;
+
+    display: flex;
+    align-items: center;
+  }
+}
+
+@keyframes iconAnm {
+  0% {
+    transform: rotate(0deg);
+  }
+  15% {
+    transform: rotate(-5deg);
+  }
+  30% {
+    transform: rotate(3deg);
+  }
+  45% {
+    transform: rotate(-3deg);
+  }
+  60% {
+    transform: rotate(2deg);
+  }
+  75% {
+    transform: rotate(-1deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}

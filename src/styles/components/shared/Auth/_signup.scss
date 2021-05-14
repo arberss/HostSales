@@ -1,0 +1,249 @@
+.signup {
+  margin-top: $nav-height;
+
+  position: relative;
+
+  &::after {
+    @include respond(tab-port) {
+      content: '';
+
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(
+        160deg,
+        rgba(182, 94, 186, 0.8) 12%,
+        rgba(64, 148, 228, 0.8) 50%,
+        rgba(64, 100, 17, 0.8) 95%
+      );
+
+      position: absolute;
+      left: 0;
+      top: 0;
+
+      z-index: -1;
+    }
+  }
+
+  .account {
+    &__content {
+      padding: 2rem 4rem 1.5rem 4rem;
+
+      @include respond(phone) {
+        padding: 2rem 2.5rem 1.5rem 2.5rem;
+      }
+    }
+
+    &__googlebtn {
+      margin-bottom: 1rem;
+    }
+  }
+
+  &__flex {
+    display: flex;
+
+    @include respond(tab-port) {
+      flex-direction: column-reverse;
+      align-items: center;
+    }
+  }
+
+  &__teams {
+    position: absolute;
+    left: 0;
+    bottom: 22%;
+
+    display: flex;
+    align-items: center;
+
+    width: 100%;
+    overflow-y: auto;
+    white-space: nowrap;
+
+    @include respond(tab-port) {
+      bottom: 2rem;
+    }
+  }
+
+  &__teams-title {
+    font-size: 1.1rem;
+    color: $color-gray-1;
+    margin-right: 1.5rem;
+  }
+
+  &__teams-team {
+    display: flex;
+    max-width: 4rem;
+    height: 2rem;
+    margin-right: 2rem;
+  }
+
+  &__left {
+    flex: 1;
+
+    color: $color-white;
+    padding-top: 12rem;
+    margin-right: 2rem;
+
+    position: relative;
+
+    @include respond(tab-port) {
+      padding-top: 6rem;
+      padding-bottom: 8rem;
+
+      text-align: center;
+    }
+
+    &::before {
+      content: '';
+
+      background: url('../../../../assets/img/Auth/blue3.png') no-repeat;
+      background-size: cover;
+      background-position: center;
+
+      width: 75vw;
+      height: 70%;
+
+      position: absolute;
+      left: -35%;
+      top: 5%;
+
+      z-index: -1;
+
+      @include respond(tab-port) {
+        background: none;
+      }
+    }
+  }
+
+  // form
+
+  &__content {
+    flex: 1;
+    margin: 2rem 0 4rem 0;
+
+    z-index: 2;
+  }
+
+  &__left-title {
+    font-size: 2rem;
+    font-family: $font-primary-bold;
+  }
+
+  &__left-text {
+    font-size: 1.1rem;
+    margin-top: 1.2rem;
+  }
+
+  &__left-data {
+    margin-top: 4rem;
+  }
+
+  &__left-box {
+    display: flex;
+    align-items: center;
+
+    &:not(:first-child) {
+      margin-top: 2rem;
+    }
+  }
+
+  &__left-iconbox {
+    background-color: rgba(239, 239, 239, 0.3);
+    border-radius: 50%;
+    border: 1px solid $color-white;
+
+    width: 4.5rem;
+    height: 4.5rem;
+    margin-right: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__left-icon {
+    transform: scale(0.7);
+  }
+
+  &__left-txt {
+    font-size: 1.2rem;
+  }
+
+  &__dropdown {
+    z-index: 1;
+  }
+
+  &__dropdown-text {
+    color: $color-gray-1 !important;
+    font-family: $font-primary-regular;
+    font-size: $font-size-small !important;
+
+    user-select: none;
+
+    cursor: pointer;
+  }
+
+  &__arrow-bottom {
+    position: absolute;
+    top: 28%;
+    right: 1.2rem;
+
+    font-size: 2.5rem;
+
+    z-index: -1;
+  }
+
+  .select {
+    &__control {
+      padding: 0.2rem 0.5rem 0.2rem 1.2rem;
+      border: 1px solid #efefef;
+      box-shadow: none;
+      color: #000;
+      font-size: 1.4rem;
+      border-radius: 5rem;
+      cursor: pointer;
+
+      &:hover {
+        border: 1px solid #efefef;
+      }
+    }
+
+    &__indicator {
+      svg {
+        fill: #d5d4d4;
+      }
+    }
+
+    &__single-value {
+      left: 3rem;
+    }
+
+    &__value-container {
+      padding-left: 3rem;
+    }
+
+    &__placeholder {
+      left: 3rem;
+
+      color: $color-gray-1;
+      font-family: $font-primary-regular;
+      font-size: $font-size-small;
+    }
+
+    &__icn1 {
+      position: absolute;
+      left: 6px;
+      top: 28%;
+      font-size: 1.8rem;
+      color: #d5d4d4;
+    }
+
+    &__indicator-separator {
+      display: none;
+    }
+
+    &__menu {
+      color: $color-black;
+      font-size: 1.2rem;
+    }
+  }
+}

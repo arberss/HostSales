@@ -1,0 +1,348 @@
+{
+    "navList1": "Funktionen",
+    "navList2": "Preisgestaltung",
+    "navList3": "Unterstützung",
+    "navList4": "Ressourcen",
+    "navList5": "Blog",
+
+    "featuresSubMenu1Title": "Hostclass Learning Management System",
+    "featuresSubMenu2Title": "Virtuelles Lernen mit Webkonferenzen",
+    "featuresSubMenu3Title": "Hostclass Reporting and Analysis Stack",
+    "featuresSubMenu4Title": "Eingeschränkte Aktivität für Mitglieder der Klasse",
+    "featuresSubMenu5Title": "Arbeiten Sie in Teams mit dem Hostclass-Kollaborationssystem",
+    "featuresSubMenu6Title": "Verwenden Sie Hostclass, wo und wann immer Sie möchten",
+
+    "landingSec1Title": "Lernen und Lehren in einem verbundenen Klassenzimmer",
+    "landingSec1Text": "Mit HostClass können Sie Ihr Klassenzimmer von Aufgaben bis zur Zusammenarbeit in einer einfachen, benutzerfreundlichen App zusammenführen.",
+
+    "landingSec2Title": "Gemeinsam besser lernen",
+    "landingSec2Text": "HostClass vereint alle wichtigen Tools für Aufgaben, Feedback und Kommunikation in einer benutzerfreundlichen App. Dies bedeutet weniger Zeitaufwand für das technische Setup und mehr Zeit für das Lehren und Lernen.",
+
+    "togetherCard1Title": "Lehren und Lernen verbessern",
+    "togetherCard1Li1": "Fügen Sie Schüler direkt hinzu oder teilen Sie einen Code oder Link, damit die gesamte Klasse beitreten kann",
+    "togetherCard1Li2": "Richten Sie eine Klasse in Minuten ein und erstellen Sie Klassenarbeiten, die in den Kalendern der Schüler erscheinen",
+    "togetherCard1Li3": "Einfach mit den Schülern kommunizieren und ihnen automatisch Updates senden",
+
+    "togetherCard2Title": "Schülerfeedback senden",
+    "togetherCard2Li1": "Feedback für eingereichte Aufgaben von Studenten senden",
+    "togetherCard2Li2": "Konsequente und transparente Bewertung mit integriertem System für die studentische Arbeit",
+    "togetherCard2Li3": "Lassen Sie die Schüler ihre eigene Arbeit nach möglichen Plagiaten durchsuchen",
+
+    "togetherCard3Title": "Bleiben Sie in Verbindung",
+    "togetherCard3Li1": "Verbinden Sie sich mit Ihren Schülern von überall mit virtuellen Klassen",
+    "togetherCard3Li2": "Wichtige Ankündigungen an die Stream-Seite übermitteln",
+    "togetherCard3Li3": "Ermöglichen Sie persönliche Verbindungen mit Schülern mithilfe der HostClass-Plattform",
+
+    "landingToolBannerTitle": "Tools, mit denen Sie Schüler inspirieren können.",
+    "landingToolBannerText": "Die Schüler lernen am besten, wenn das Feedback sowohl einzigartig als auch persönlich ist. Die leistungsstarken Tools von HostClass machen es einfach, Schülern aller Lernfähigkeiten ein reichhaltiges, differenziertes Feedback zu geben, sodass jeder die Hilfe erhält, die er zum Erfolg benötigt.",
+
+    "hostClassCompanies": "HOSTCLASS WIRD VON GROSSEN NAMEN WIE VERTRAUEN",
+
+    "onlineCardTitle": "Alles, was Sie brauchen, um mit Ihren Online-Kursen erfolgreich zu sein.",
+    "onlineCard1Title": "Inhaltsbenachrichtigung",
+    "onlineCard1Text": "Inhaltsbenachrichtigung automatisch nach einem vordefinierten Zeitplan bereitstellen, genau zu dem Zeitpunkt, zu dem Ihre Schüler sie erhalten sollen.",
+
+    "onlineCard2Title": "Engagement Triggers",
+    "onlineCard2Text": "Interagiere mit den Lernenden basierend auf den Aktionen, die sie in deiner Klasse ausführen. Haben einige Schüler im Rückstand? Auch dafür gibt es einen Auslöser für das Engagement!",
+
+    "onlineCard3Title": "Robuste Benutzerverwaltung",
+    "onlineCard3Text": "Erstellen Sie Gruppen von Lernenden (und Untergruppen innerhalb dieser Gruppen), fügen Sie Lernende zu Mitgliedschaftsstufen hinzu, melden Sie eine Untergruppe von Lernenden in mehreren Klassen an, entfernen Sie automatisch den Kurszugriff und vieles mehr!",
+
+    "resourcesTitle": "Ressourcen erkunden",
+    "resourcesCard1Title": "Übersicht",
+    "resourcesCard1Text": "Verschaffen Sie sich einen schnellen Überblick über die Vorteile von HostClass, einschließlich der Vereinfachung Ihrer Arbeit, damit Sie leichter unterrichten können.",
+    "resourcesCard1Button": "Herunterladen",
+    "resourcesCard2Title": "Erste Schritte mit HostClass",
+    "resourcesCard2Text": "Erfahren Sie, wie Sie Klassen einrichten und virtuelle Klassen mit HostClass-Funktionen hosten. Organisieren Sie Ihre Aufgaben und geben Sie den Schülern schnelles Feedback.",
+    "resourcesCard2Button": "Video ansehen",
+    "resourcesCard3Title": "Ressourcen und Tipps von anderen Lehrern erhalten",
+    "resourcesCard3Text": "Verwenden Sie HostClass bestmöglich. Lernen Sie Tipps und erhalten Sie Feedback von anderen Lehrern und Pädagogen.",
+    "resourcesCard3Button": "Ressourcen",
+
+    "plansTitle": "Pläne & Preise",
+    "plansFor1": "Für Lehrer",
+    "plansBadge1": "Pro",
+    "plansMonth": "pro Monat",
+    "plans1Title": "Beinhaltet alles in HostClass Basic Edition, plus:",
+    "plans1Li1": "Unbegrenzte Aufgaben",
+    "plans1Li2": "Klassendiskussion & Gruppen",
+    "plans1Li3": "Co-Teaching & Elternzugang",
+    "plans1Li4": "Studentenportfolios & Noten",
+    "plans1Li5": "Größere Uploads",
+    "plans1Li6": "Vorrangiger Kundensupport",
+    "plans1Btn": "Holen Sie sich jetzt Pro",
+
+    "plansBadge2": "Basic",
+    "plansPrice2": "Kostenlos",
+    "plans2Title": "Einfacher Workflow für digitale Aufgaben für Sie und Ihre Schüler.",
+    "plans2Li1": "Unbegrenzte Anzahl von Klassen und Schülern",
+    "plans2Li2": "Dokumentanmerkungen",
+    "plans2Li3": "Sprach- und Textnotizen",
+    "plans2Li4": "Zuweisungsplanung",
+    "plans2Li5": "Zugriff auf ein beliebiges Gerät",
+    "plans2Btn": "Kostenlos anmelden",
+
+    "plansBadge3": "Professional",
+    "plansFor3": "Für Institution",
+    "plans3Title": "Enthält alles in HostClass Pro für Lehrer sowie:",
+    "plans3Li1": "Integriertes Quiz und Bewertung",
+    "plans3Btn": "Jetzt professionell werden",
+
+    "testimionals": "Referenzen",
+    "testimionalTitle": "Was HostClass-Benutzer denken",
+    "testimionalPersonTitle": "Die Schüler können sich auf das Lernen konzentrieren und die Fakultät kann sich auf das Lehren konzentrieren.",
+    "testimionalMobTitle": "HostClass unterwegs mit mobiler App verwenden",
+    "testimionalMobText": "Verpassen Sie niemals ein virtuelles Klassentreffen oder brechen Sie das Gespräch ab. Bleiben Sie mit Klassenkameraden und Lehrern in Verbindung, um digitale Klassendiskussionen und virtuelle Klassensitzungen in Echtzeit zu erhalten.",
+
+    "featuresSec1Title": "Überall lernen",
+    "featuresSec1Text": "HostClass hält Sie und Ihre Schüler auf der gleichen Seite, unabhängig davon, ob Sie Ihr iPad, iPhone oder so ziemlich jeden Computer oder jedes Gerät mit Internetverbindung verwenden.",
+
+    "featuresHostCart1Title": "HostClass Web App",
+    "featuresHostCart1Text": "Sie und Ihre Schüler können überall auf HostClass zugreifen, einschließlich Ihres Laptops, Chromebooks oder sogar Ihres Android-Telefons.",
+
+    "featuresHostCart2Title": "HostClass iPad / Tablet",
+    "featuresHostCart2Text": "Holen Sie mit iPads oder Tablets das Beste aus dem Klassenzimmer heraus. HostClass bietet alles, was Sie brauchen, in einer einzigen, benutzerfreundlichen App.",
+
+    "featuresHostCart3Title": "HostClass Mobile App",
+    "featuresHostCart3Text": "Mit HostClass in der Tasche ist es einfach, mit den Schülern in Kontakt zu bleiben und wertvolles Feedback zu geben, wenn es am dringendsten benötigt wird.",
+
+    "featuresSec3Title": "Sehen Sie, wie Hostclass funktioniert und welche Vorteile es für Ihr Klassenzimmer haben könnte",
+
+    "featuresSec4Title": "Aufgaben leicht gemacht",
+    "featuresSec4Card1Title": "Alles teilen",
+    "featuresSec4Card1Text": "Verteilen Sie Dokumente, Bilder, Anweisungen und Kommentare sofort an Ihre gesamte Klasse, eine Gruppe von Schülern.",
+
+    "featuresSec4Card2Title": "Dokumente bilden überall",
+    "featuresSec4Card2Text": "Fügen Sie in wenigen Schritten Dokumente von Ihrem Computer, Ihrer bevorzugten iPad-App, Dropbox oder Google Drive hinzu.",
+
+    "featuresSec4Card3Title": "Kommentare, Links & Sprachnotizen",
+    "featuresSec4Card3Text": "Fügen Sie schnell Anweisungen oder Links zu Aufgaben hinzu. Sie können eine Sprachnotiz mit mündlichen Anweisungen für Ihre Schüler aufzeichnen.",
+
+    "featuresSec4Card4Title": "Klassenordner",
+    "featuresSec4Card4Text": "Erstellen Sie eine beliebige Anzahl von Ordnern innerhalb einer Klasse, damit Ihre Aufgaben und Dokumente organisiert und leicht zu finden sind.",
+
+    "featuresSec4Card5Title": "Fotos und Videos",
+    "featuresSec4Card5Text": "Einfaches Anpassen und Bearbeiten von Bildern von Ihrer Kamera oder einem beliebigen Gerät. Machen Sie Ihren Unterricht mit interaktiven Mediendateien zum Vergnügen.",
+
+    "featuresSec4Card6Title": "Zugriff auf vorinstallierte Zuweisungen",
+    "featuresSec4Card6Text": "Laden Sie Ihre Inhalte hoch oder wählen Sie aus Hunderten von Aufgaben und Unterrichtsplänen aus, die bereits in HostClass geladen wurden.",
+
+    "featuresSec5Title": "Verwalten Sie Ihre Kurse und Lernenden mit Flexibilität und Leichtigkeit.",
+    "featuresSec5Text": "Mehr Kontrolle über Ihre Lernenden und Kurse als fast jedes andere Lernmanagementsystem auf dem Markt.",
+    "featuresSec5Card1Title": "Gruppenverwaltung",
+    "featuresSec5Card1Text": "Benutzer in Gruppen und Untergruppen einteilen und dann anderen die Verwaltung ermöglichen.",
+
+    "featuresSec5Card2Title": "Detaillierte Berichterstellung",
+    "featuresSec5Card2Text": "Führen Sie schnell Berichte zu Registrierung, Fortschritt und Leistung aus.",
+
+    "featuresSec5Card3Title": "Zuweisungsverwaltung",
+    "featuresSec5Card3Text": "Benutzer in Gruppen und Untergruppen einteilen und dann anderen die Verwaltung ermöglichen.",
+
+    "featuresSec5Card4Title": "Notenbuch",
+    "featuresSec5Card4Text": "Synchronisiert mit HostClass-Quiz und -Aufgaben und manueller Bewertung.",
+
+    "featuresSec6Title": "Die richtigen Tools für den Job",
+    "featuresSec6Card1Title": "Smart Document Viewer",
+    "featuresSec6Card1Text": "HostClass funktioniert wie Magie und zeigt PDFs, Bilder, E-Books, Audio und Video genau so an, wie Sie es möchten.",
+
+    "featuresSec6Card2Title": "Textwerkzeug",
+    "featuresSec6Card2Text": "Sie und Ihre Schüler können Text direkt auf der Seite eingeben und dabei Schriftgröße, Farbe und Ausrichtung steuern.",
+
+    "featuresSec6Card3Title": "Stiftwerkzeug",
+    "featuresSec6Card3Text": "Verwenden Sie den Stift, um direkt auf Ihre Dokumente zu zeichnen. HostClass Pro-Klassenzimmer können eine Vielzahl von Farben und Linienstärken verwenden.",
+
+    "featuresSec6Card4Title": "Pinned Voiced Tool",
+    "featuresSec6Card4Text": "Nehmen Sie Audio auf und heften Sie es direkt an die Seite. Erfassen Sie Ihre Schüler beim Lesen, Singen oder Üben einer neuen Sprache mit einem einzigen Tastendruck!",
+
+    "featuresSec6RightCard": "Dies ist eine neue Aufgabe, die wir in der nächsten Klasse besprechen werden. Ich möchte, dass Sie sie alle lesen und sich auf die Diskussion vorbereiten. Hostclass ist die beste Plattform, die wir jemals verwendet haben. |",
+
+    "featuresSec7Title": "Es ist einfach, loszulegen",
+    "featuresSec7Text": "Es dauert nicht lange, bis Sie mit dem erstaunlichsten Tool beginnen, das Sie jemals finden werden. Geben Sie Ihren Schülern eine hervorragende virtuelle Klasse mit HostClass. Die Schüler sind stärker, wenn sie gemeinsam lernen, und helfen ihnen, Dateien und Ideen mit ihnen zu teilen mit Leichtigkeit. Schaffen Sie eine sicherere Klassengemeinschaft mit Gruppenprojekten, Peer Review und Klassendiskussion. ",
+
+    "featuresSec7Img1": "Meine Schüler lieben HostClass",
+    "featuresSec7Img2": "HostClass ist so einfach zu bedienen",
+    "featuresSec7Img3": "Client Satisfied",
+
+
+    "featuresLearningSec1Title": "Lernmanagement",
+    "featuresLearningSec1Text": "In den letzten zweieinhalb Jahrzehnten hat die Lernmanagementtechnologie das Gesicht des Lehrens und Lernens verändert. Mit HostClass-Funktionen können Schulen, Universitäten und Unternehmen sicherstellen, dass alle Lernenden die Möglichkeit haben, ihr Potenzial auszuschöpfen." ,
+
+    "featuresLearningSec2Title": "Binden Sie Ihre Lernenden mit dem Besten aus E-Learning ein",
+    "featuresLearningSec2Card1Title": "Automatisierte Benachrichtigung",
+    "featuresLearningSec2Card1Text": "Automatische Auslösung von E-Mails basierend auf Aktionen, die Lernende in einem Kurs ausführen (oder nicht ausführen).",
+
+    "featuresLearningSec2Card2Title": "Diskussionsforen",
+    "featuresLearningSec2Card2Text": "Fördern Sie die Konversation unter den Lernenden, indem Sie ein kursspezifisches Diskussionsforum hinzufügen.",
+    
+    "featuresLearningSec2Card3Title": "Bestenlisten",
+    "featuresLearningSec2Card3Text": "Vergeben und zeigen Sie die Lernenden an, die bei Quizfragen in Ihren Kursen die besten Ergebnisse erzielen.",
+    
+    "featuresLearningSec2Card4Title": "Badges & Certificates",
+    "featuresLearningSec2Card4Text": "Vergeben Sie offizielle Zertifikate basierend auf der Quizleistung, dem Abschluss eines Kurses oder beidem!",
+
+    "featuresLearningSec2Card5Title": "Zuweisungen",
+    "featuresLearningSec2Card5Text": "Erforderliche Übermittlung von Aufgaben, bevor die Lernenden mit den nächsten Lektionen fortfahren können.",
+    
+    "featuresLearningSec2Card6Title": "Notenbuch",
+    "featuresLearningSec2Card6Text": "Markieren und bewerten Sie die Arbeit Ihrer Schüler effizient anhand der Klassenliste im freigegebenen Ordner.",
+
+    "featuresAlayticsTitleTop": "Datenanalyse",
+    "featuresAlayticsTitle": "Datenanalyse: Bildungsanalytik",
+    "featuresAlayticsText": "Mithilfe der evidenzbasierten Lösungen von HostClass können Hochschulen, Universitäten und Schulen Hindernisse für den Schülererfolg identifizieren und überwinden, die Lernenden mit hochwertigen Zeugnissen auf dem Weg zum Abschluss halten und die institutionellen Ergebnisse optimieren.",
+
+    "featuresAlayticsSec2Title1": "Optimieren Sie Ihre gesamte Schülererfahrung",
+    "featuresAlayticsSec2Text1": "HostClass bietet die Tiefe und Breite von Analyselösungen, die Sie benötigen, um einen wirklich umfassenden, integrierten und evidenzbasierten Ansatz für das Lehren, Lernen und den Erfolg von Schülern zu unterstützen.",
+
+    "featuresAlayticsSec2Title2": "HostClass-Berichtsstapel",
+    "featuresAlayticsSec2Text2": "Messen Sie die Akzeptanz und den Return on Investment von Tools und beantworten Sie komplexe Fragen mit direktem Zugriff auf die Daten Ihrer HostClass SaaS-Lehr- und Lernlösungen.",
+
+    "featuresAlayticsSec2Title3": "HostClass Analytics für Lernen",
+    "featuresAlayticsSec2Text3": "Optimieren Sie das Kursdesign für akademische Leistungen, verbessern Sie die Berichterstellungseffizienz, unterstützen Sie die Entwicklung von Fakultäten, fördern Sie selbstreguliertes Lernen und messen Sie die Rendite Ihrer Investitionen in Bildungstechnologie.",
+
+    "featuresAlayticsSec2Title4": "HostClass Intelligence",
+    "featuresAlayticsSec2Text4": "Steigern Sie die institutionelle Leistung mit einer vollständigen Data Warehouse- und Berichtslösung für das Schülerinformationssystem zur Unterstützung des Registrierungsmanagements, der Aufbewahrung, der finanziellen Unterstützung, der strategischen Finanzierung, der Personalabteilung, des Fortschritts und mehr.",
+
+    "featuresAnalyticsSec3Text": "Vereinbaren Sie einen Termin mit einem unserer Daten- und Analyseexperten, um zu erfahren, wie Sie den Erfolg von Institutionen und Studenten maximieren können.",
+
+    "featuresAnalyticsSec4Title": "Verbesserung der Leistung von Studenten und Institutionen",
+    "featuresAnalyticsSec4Card1Title": "Student Engagement",
+    "featuresAnalyticsSec4Card1Text": "Erfahren Sie, wie Schulen Daten verwenden, um ihre Schülerdienste zu verbessern. Diese Einsicht ist wichtiger denn je. Wir diskutieren, wie Sie auf Daten und Berichte zu Schüleraktivitäten zugreifen können, die für Ihre Einrichtung möglicherweise bereits kostenlos sind.",
+
+    "featuresAnalyticsSec4Card2Title": "Strategischer Aktionsplan für Learning Analytics",
+    "featuresAnalyticsSec4Card2Text": "Der Learning Analytics Data Strategy Workshop von HostClass soll Institutionen dabei helfen, über die erwarteten Online-Lernaspekte hinauszuschauen und zu diskutieren, wie er zur Bewältigung der Kernherausforderungen verwendet werden kann.",
+
+    "featuresAnalyticsSec4Card3Title": "Es ist eine Tatsache: Studenten wollen mehr Online-Kurse",
+    "featuresAnalyticsSec4Card3Text": "Erfahren Sie, wie Schulen Daten verwenden, um ihre Schülerdienste zu verbessern. Diese Einsicht ist wichtiger denn je. Wir diskutieren, wie Sie auf Daten und Berichte zu Schüleraktivitäten zugreifen können, die für Ihre Einrichtung möglicherweise bereits kostenlos sind.",
+
+    "featuresCollabSec1TitleTop": "Zusammenarbeit",
+    "featuresCollabSec1Title": "Einfache, leistungsstarke Tools für kollaboratives Lernen",
+    "featuresCollabSec1CardTitle": "HostClass Collaborate: Fernlehrsystem",
+    "featuresCollabSec1CardText": "Eine einfache und zuverlässige Lösung für virtuelle Klassenzimmer, mit der Sie Ihre Anforderungen an Online-Unterricht und Webkonferenzen erfüllen können.",
+
+    "featuresCollabSec2Title": "Bessere Zusammenarbeit für effektiveres Lernen",
+    "featuresCollabSec2Text": "Die Lernenden von heute möchten neue Möglichkeiten für die Einbindung und Zusammenarbeit. Virtuelle Klassenzimmer und die berufliche Online-Entwicklung bieten neue Möglichkeiten, um Ihre Lernenden dort zu treffen, wo sie sind. Inspirieren und binden Sie Ihre Lernenden mit den benutzerfreundlichen Online-Lösungen, nach denen sie sich sehnen.",
+
+    "featuresCollabSec3Title": "Vorteile für Pädagogen",
+    "featuresCollabSec3Mob1Title": "Erreichen Sie Ihre Schüler ganz einfach, wo immer sie sind",
+    "featuresCollabSec3Mob1Text": "Geben Sie Ihren Schülern mehr Möglichkeiten, sich zu engagieren - mit Tools für kollaboratives Lernen für ihr mobiles Leben.",
+
+    "featuresCollabSec3Mob2Title": "Voll funktionsfähige Zusammenarbeit",
+    "featuresCollabSec3Mob2Text": "Webkonferenzen sollten einfach sein. Unsere Funktionen sind intuitiv, sodass Sie sich auf das Lernengagement konzentrieren können, anstatt die Technologie zu verwalten.",
+
+    "featuresCollabSec3Mob3Title": "All-In-One-Klassenzimmer",
+    "featuresCollabSec3Mob3Text": "Kreative, mobilfreundliche, gespiegelte Lektionen, die so lange dort bleiben, wie Sie möchten.",
+
+    "featuresCollabSec4Title": "Vorteile für Studenten",
+     "featuresCollabSec4Card1Title": "Ihr Lernen, On-Demand",
+     "featuresCollabSec4Card1Text": "Unterricht anhalten, zurückspulen oder vorspulen. Sie sind für Ihre Lernerfahrung mit HastClass Collaborate verantwortlich.",
+
+     "featuresCollabSec4Card2Title": "Reichhaltiges, qualitativ hochwertiges Video und Audio",
+     "featuresCollabSec4Card2Text": "HD-Audio und -Video ermöglichen eine ansprechendere Lernerfahrung. Zeigen Sie bis zu fünf HD-Videos pro Konferenz an.",
+
+     "featuresCollabSec4Card3Title": "Ein Klassenzimmer, das immer eingeschaltet ist",
+     "featuresCollabSec4Card3Text": "Egal wo Sie sind, arbeiten Sie bequem von Ihrem Telefon oder Tablet aus mit Klassenkameraden und Professoren zusammen. Nehmen Sie an Klassen- oder Lerngruppen aus der Ferne teil. Lassen Sie sich von Lehrern helfen, wo immer Sie sind.",
+
+     "featuresConfSec1TitleTop": "Webkonferenzen",
+     "featuresConfSec1Title": "Virtuelles Lernen mit Webkonferenzen",
+     "featuresConfSec1Text": "Geben Sie Ihren Lernenden eine einfache, bequeme und zuverlässige Lösung für synchrones Lernen, die für allgemeine und berufliche Bildung entwickelt wurde. Die Lernenden können sich untereinander und mit dem Material austauschen und fühlen sich wie zusammen im selben Raum - wo immer ihr Tag dauert sie mit ihrem Lieblingsgerät. ",
+
+     "featuresConfSec2Title": "Digital Classroom Software",
+     "featuresConfSec2Text": "Wie ein persönliches Klassenzimmer oder eine Schulungsumgebung ist ein virtuelles Klassenzimmer ein Ort, an dem das Lernen stattfindet. Pädagogen erleichtern es, während sich die Lernenden aktiv mit dem Material beschäftigen und miteinander interagieren. Dies alles mit dem zusätzlichen Komfort und den damit verbundenen Kosteneinsparungen eine digitale Umgebung zu bieten hat. ",
+
+     "featuresConfSec3Title": "Empfohlene Ressourcen",
+
+     "featuresSecurityTitleTop": "Sicherheit",
+     "featuresSecurityTitle": "Schützen Sie Ihre Klasse",
+     "featuresSecurityLine1": "Stellen Sie sicher, dass jeder Benutzer über eine eindeutige Anmeldung verfügt, um die Sicherheit einzelner Konten zu gewährleisten",
+     "featuresSecurityLine2": "HostClass-Aktivität auf Mitglieder der Klasse beschränken",
+     "featuresSecurityLine3": "Schutz der Privatsphäre von Schülern - Schülerdaten werden niemals für Werbezwecke verwendet",
+
+     "featuresDevicesSec1TitleTop": "Mehrere Geräte",
+     "featuresDevicesSec1Title": "HostClass überall dabei haben",
+     "featuresDevicesSec1Text": "HostClass ist ein revolutionäres Produkt, das sich nahtlos in das Lernmanagementsystem einfügt und sich darauf konzentriert, digitale Kursinhalte zugänglicher zu machen.",
+
+     "featuresDevicesSec2Title": "UNTERSTÜTZT",
+
+     "featuresDevicesSec3Title": "Alternative Formate für alle Lernenden",
+     "featuresDevicesSec3Text": "Verbessern Sie die allgemeine Schülererfahrung mit alternativen Formaten, die den Schülern die Wahl und zusätzliche Flexibilität bieten, die mit einem persönlicheren Ansatz einhergehen.",
+
+     "priceSec1Title": "HostClass bietet die besten Preispläne für Sie",
+
+     "priceTableTitle": "Pläne vergleichen",
+     "priceTableTd1": "Alle wichtigen Informationen für Aufgaben und Feedback mit all Ihren Klassen und Schülern",
+     "priceTableTd2": "Aktive Zuordnungen",
+     "priceTableTd3": "Maximale Dateigröße",
+     "priceTableTd4": "Maximale Sprachnotizenlänge",
+     "priceTableTd5": "Klassendiskussion",
+     "priceTableTd6": "Gruppen",
+     "priceTableTd7": "Elternzugriff",
+     "priceTableTd8": "Studentenportfolios",
+     "priceTableTd9": "Notenbuch",
+
+     "priceTableEveryone": "Jeder",
+
+     "priceSec4Title": "Du hast große Pläne",
+     "priceSec4Text": "Vereinbaren Sie einen Termin mit einem unserer Lehr- und Lernexperten, um zu erfahren, wie Sie mit HostClass den institutionellen und studentischen Erfolg maximieren können.",
+
+     "priceSec5Title": "Haben Sie noch Fragen? Wir haben einige der am häufigsten gestellten Fragen aufgelistet!",
+     "priceSec5Tab1": "Allgemein",
+     "priceSec5Tab2": "Zahlung",
+     "priceSec5Tab3": "Technisch",
+     "priceSec5Tab4": "Andere",
+
+     "priceAcd1Title": "Wie lange ist die kostenlose HostClass-Basisversion?",
+     "priceAcd1Text": "Wenn Sie sich für eine kostenlose Edition anmelden, ist diese lebenslang gültig. Sie können jederzeit ein Upgrade durchführen.",
+
+     "priceAcd2Title": "Welche Zahlungsarten akzeptieren Sie?",
+     "priceAcd3Title": "Kann ich zu einem späteren Zeitpunkt auf einen anderen Plan upgraden?",
+     "priceAcd4Title": "Bieten Sie Rückerstattungen an?",
+
+     "priceLimit": "Unbegrenzt",
+     "priceMinutes": "Minuten",
+     "priceMinute": "Minute",
+
+     "loginTitle": "Bei HostClass anmelden",
+     "loginText": "Willkommen zurück!",
+
+     "signupAccount": "Neues Konto erstellen",
+     
+     "accEmail": "Email",
+     "accEnterEmail": "Geben Sie Ihre E-Mail-Adresse ein",
+     "accPass": "Passwort",
+     "accEnterPass": "Geben Sie Ihr Passwort ein",
+     "accRemember": "Erinnere dich an mich",
+     "accForgotPw": "Passwort vergessen?",
+     "accsignup": "Noch kein Konto?",
+     "acclogin": "Haben Sie bereits einen Account?",
+     "accFullName": "Vollständiger Name",
+     "accEnterFullName": "Geben Sie Ihren Namen ein",
+
+     "accAccept": "Ich akzeptiere ",
+
+     "PrivatePolicy": "Private Politik",
+     "TermUse": "Nutzungsdauer",
+
+     "oder": "ODER",
+
+     "subscribeTitle": "Für alles benachrichtigt werden!",
+     "subscribeText": "Abonnieren Sie unseren Newsletter",
+     "subscribeInput": "Geben Sie Ihre E-Mail-Adresse ein",
+     "subscribeBtn": "Abonnieren",
+
+     "footerTitle": "Geben Sie Ihrem Schüler ein außergewöhnliches Bildungserlebnis",
+
+
+    "buttonStarted": "Erste Schritte",
+     "buttonFeatures": "Siehe Funktionen",
+     "buttonLearnMore": "Weitere Informationen",
+     "buttonLogIn": "Einloggen",
+     "buttonSignUp": "Anmelden",
+     "buttonSignUpWith": "Anmelden mit",
+     "buttonSignUpNow": "Jetzt anmelden",
+     "buttonSignUpFree": "Kostenlos anmelden",
+     "buttonWatch": "Video ansehen",
+     "buttonContact": "Kontakt",
+     "buttonExpert": "Kontaktieren Sie unsere Experten",
+     "buttonViewMore": "Mehr anzeigen",
+     "buttonPurchase": "Jetzt kaufen"
+}
